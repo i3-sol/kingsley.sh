@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2020-06-10",
+        "description": "Echo",
+        "provider": "Christ Medical Center",
+        "amount": 260
+    },
+    {
+        "date": "2020-07-10",
+        "description": "Echo",
+        "provider": "Christ Medical Center",
+        "amount": 220
+    },
+    {
+        "date": "2020-07-29",
+        "description": "Echo",
+        "provider": "Christ Medical Center",
+        "amount": 120
+    },
+    {
+        "date": "2020-10-01",
+        "description": "[unsure]",
+        "provider": "Renaissance Medical Group, SC",
+        "amount": 120
+    },
+    {
+        "date": "2020-10-14",
+        "description": "Anesthesia",
+        "provider": "Midwest Anesthesiologists",
+        "amount": 440
+    },
+    {
+        "date": "2020-10-21",
+        "description": "xray",
+        "provider": "Christ Medical Center",
+        "amount": 14
+    },
+    {
+        "date": "2020-10-29",
+        "description": "Home oxygen supply",
+        "provider": "Apria Healthcare",
+        "amount": 120
+    },
+    {
+        "date": "2020-11-03",
+        "description": "[unsure]",
+        "provider": "Katerji Pediatric Neurology & Assoc",
+        "amount": 120
+    }
+]

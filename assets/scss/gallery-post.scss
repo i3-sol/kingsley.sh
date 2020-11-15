@@ -1,0 +1,87 @@
+
+// 1. Add horizontal and vertical spacing between items.
+// 2. Add vertical spacing between rows.
+// 3. Make the order of image / text alternate.
+// 4. Take all the available space.
+// 5. Require at least this amount of space or wrap.
+// 6. Prevent images from sticking to the right in single column mode.
+// 7. (Try to) take as much space as the content needs.
+
+$min-width: 15rem;
+
+.gallery-container {
+    margin-top:3rem;
+}
+
+.gallery-post {
+    @extend .container;
+    margin: 0 auto;
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        width: auto;
+        height: auto;
+        vertical-align: middle;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .gallery-item {
+      &__child {
+        * + * {
+          margin-top: 1em;
+        }
+      }
+    }
+}
+
+@include media-breakpoint-up(lg) {
+    .gallery-post {
+        max-width: 990px;
+    }
+    .gallery-item {
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: -1em; // 1
+      margin-left: -3.5em; // 1
+      align-items: center;
+
+      &:not(:first-of-type) {
+        margin-top: 3em; // 2
+      }
+
+      &:nth-child(even) {
+        flex-direction: row-reverse; // 3
+      }
+
+
+      &__child {
+        padding-top: 1em; // 1
+        padding-left: 3.5em; // 1
+
+        &--body {
+          flex-grow: 9999; // 4
+          flex-basis: $min-width; // 5
+        }
+
+        &--figure {
+          margin-right: auto; // 6
+          flex-grow: 1; // 7
+
+          // By using `max-content` we can get a little
+          // nicer responsive behavior because the image
+          // automatically shrinks if not enough space is
+          // available, but also the column is not getting
+          // to large than the image if a lot of space
+          // is available.
+          @supports (max-width: max-content) {
+            min-width: $min-width; // 5
+            max-width: max-content;
+            flex-basis: $min-width; // 5
+            flex-grow: 99999;
+          }
+        }
+      }
+    }
+}

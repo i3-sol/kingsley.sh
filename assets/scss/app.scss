@@ -1,0 +1,364 @@
+// fonts
+$font-family-serif: 'Asap', sans-serif;
+$font-family-sans-serif: 'Asap', sans-serif;
+
+// sizes
+$container-max-widths: (
+    md: 640px
+);
+
+// colors
+$link-color: #111;
+
+// Imports
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "gallery-post";
+
+
+// Mixins
+@each $breakpoint in map-keys($grid-breakpoints) {
+  @include media-breakpoint-up($breakpoint) {
+    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+    @each $prop, $abbrev in (width: w, height: h) {
+      @each $size, $length in $sizes {
+        .#{$abbrev}#{$infix}-#{$size} { #{$prop}: $length !important; }
+      }
+    }
+  }
+}
+
+
+// Global
+//////////////////////////
+body {
+    // background-color: #FFDC00    ;
+    padding: 2.5rem 0 0;
+}
+
+// Generic
+//////////////////////////
+main {
+    a {
+        border-bottom: 2px solid rgba(0,0,0,0.2);
+        &:hover {
+            border-bottom-color: #000;
+            text-decoration: none;
+        }
+    }
+
+    h1 {
+        font-size: 3rem;
+        line-height: 1;
+        margin: 6rem 0rem 1.25rem;
+        font-weight: bold;
+    }
+
+    h2, h3, h4, h5, h6 {
+        font-weight: bold;
+        margin-top: 3rem;
+    }
+}
+
+pre {
+    margin-bottom: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+// Elements
+//////////////////////////
+.site {
+    min-height: 100vh !important;
+    flex-direction: column !important;
+    display: flex !important;
+}
+
+.site-header {
+    margin-bottom: 3rem;
+    // font-family: $font-family-serif;
+
+    ul {
+        display: flex;
+        justify-content: center;
+
+        li {
+            @extend .list-inline-item;
+
+            + li {
+                @include media-breakpoint-up(md) {
+                    margin-left: 1rem;
+                }
+            }
+
+            a {
+                font-size: 1.1rem;
+                color: rgba(0,0,0,0.3);
+                text-transform: uppercase;
+
+                &:hover,
+                &:active {
+                    text-decoration: none;
+                }
+
+                &.nuxt-link-exact-active,
+                &:hover {
+                    // font-weight: bold;
+                    color: #111;
+                    border-bottom: 2px solid #111;
+                }
+            }
+        }
+    }
+}
+
+.site-content {
+    flex-grow: 1;
+}
+
+.site-footer {
+    margin-top: 5rem;
+
+    .container {
+        background-color: rgba(0,0,0,0.2);
+        padding: 2rem 2rem 2rem 2rem;
+    }
+
+    nav {
+        margin-bottom: 1rem;
+    }
+
+    p {
+        margin: 0;
+        font-size: 0.8em;
+        color: #5f6265;
+    }
+
+    &__link {
+        color: currentColor;
+        text-decoration: none;
+        margin-right: 0.3rem;
+
+        .text {
+            border: 0;
+            clip: rect(0,0,0,0);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute;
+            width: 1px;
+        }
+
+        .icon {
+            display: inline-block;
+            fill: currentColor;
+            height: auto;
+            width: 2rem;
+        }
+
+        .envelope {
+            fill:#d8dfdb;
+        }
+    }
+}
+
+// blog posts
+//////////////////////////
+.post {
+    ul {
+        list-style-type: square;
+    }
+    p, li {
+        font-size: 1.125rem;
+    }
+    &__inner {
+        .nuxt-content {
+            > .container > p,
+            > p {
+                position: relative;
+                &:first-child {
+                    @extend .lead;
+                }
+            }
+        }
+    }
+    &__meta {
+        margin-bottom: 1rem;
+        color: #999
+    }
+    &__highlight {
+        overflow: hidden;
+        img {
+            display: block;
+            margin-bottom: 5rem;
+            height: 400px;
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+
+    .nuxt-content-highlight {
+        margin:2.5rem 0;
+    }
+
+    .figure {
+        margin-bottom: 5rem;
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}
+
+.footnotes {
+    margin-top: 5rem;
+    ol {
+        padding-left: 0;
+        li {
+            counter-increment: muffins;
+            &:before {
+                content: "[" counter(muffins) "] ";
+            }
+        }
+        list-style: none;
+        counter-reset: muffins;
+    }
+}
+
+// About
+//////////////////////////
+.about-kingsley {
+    @extend .clearfix;
+
+    .avatar {
+        margin-right: 1rem;
+        shape-outside: circle();
+        border-radius: 50%;
+        float: left;
+        width: 192px;
+        height: 192px;
+        background-size: 2000px 200px;
+        background-image: url(/i/hello-kingsley-raspe-outline.png);
+    }
+
+    .blockquote {
+
+        font-size: 1rem;
+        margin-bottom: 4rem;
+
+        border: 2px solid rgba(0,0,0,0.2);
+        padding: 1.5rem;
+
+        @include media-breakpoint-up(md) {
+            margin-left: -1.5rem;
+            margin-right: -1.5rem;
+        }
+
+        p {
+            &:first-child {
+                // font-size: 2rem;
+            }
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.project-single {
+    margin-bottom: 5rem;
+}
+
+// all blog post listing
+//////////////////////////
+.blogroll {
+    &__section {
+        margin-bottom:4rem;
+    }
+    &__year {
+        font-weight: bold;
+        font-size: 2rem;
+    }
+    &__post {
+
+        &__heading {
+            font-size: 1.25rem;
+            margin-bottom: 0.125rem;
+
+            &.starred {
+                &::before {
+                    content: "★";
+
+                    padding-right: 10px;
+                    @include media-breakpoint-up(md) {
+                        margin-left: -30px;
+                    }
+                }
+            }
+
+            time {
+                color:#999;
+                margin-left: 0.333rem;
+            }
+        }
+    }
+}
+
+// blog posts
+//////////////////////////
+.post {
+    h2,h3,h4,h5,h6 {
+        font-weight: bold;
+        margin-top: 3rem;
+    }
+    ul {
+        list-style-type: square;
+    }
+    p, li {
+        font-size: 1.125rem;
+    }
+    &__inner {
+        .nuxt-content {
+            > .container > p,
+            > p {
+                position: relative;
+                &:first-child {
+                    @extend .lead;
+                }
+            }
+        }
+    }
+    &__meta {
+        margin-bottom: 1rem;
+        color: #999
+    }
+    &__highlight {
+        img {
+            display: block;
+            margin-bottom: 5rem;
+            max-width: 100%;
+            width:100%;
+        }
+    }
+
+    .nuxt-content-highlight {
+        margin:2.5rem 0;
+    }
+}
+
+// generic inline table
+//////////////////////////
+.inline-table {
+    font-size: 15px;
+    line-height: 25px;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-gap: 5px 15px;
+
+    > div:nth-child(2n+1) {;
+        color: #999;
+        text-transform: lowercase;
+    }
+}
+
