@@ -1,9 +1,7 @@
 <template>
   <main :class="`post post--${page.slug}`">
 
-    <div class="post__highlight" v-if="page.img">
-      <img :src="page.img" :alt="page.img" />
-    </div>
+    <div class="post__highlight" v-if="page.img" :style="`background-image:url(${page.img})`"></div>
 
     <section class="post__inner">
       <div class="container">

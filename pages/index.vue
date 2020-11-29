@@ -3,7 +3,7 @@
 
     <section class="container about-kingsley">
       <blockquote class="blockquote">
-        <div class="avatar" id="photo"></div>
+        <i-am-kingsley />
         <p class="lead">Hi there! My name's Kingsley. I'm a Brit, who's been living in the US since 2016. I write code for things on the internet. More specifically, I'm an Open Source Enthusiast &amp; I work as a DevOps Engineer for Pearson.</p>
         <p>A full-stack developer, generalist, and environmentalist, I enjoy combining my obsessive attention to detail, with my love for making things, and the environment, with a mission-driven work ethic of changing the world, one small positive way at a time. Checkout some of my <nuxt-link to="/projects">work</nuxt-link>, or say <nuxt-link to="/about">hello!</nuxt-link></p>
       </blockquote>
@@ -38,7 +38,6 @@
 <script>
 import _ from 'lodash';
 import moment from 'moment';
-import $ from 'jquery';
 import getSiteMeta from '~/utilities/getSiteMeta';
 
 export default {
@@ -54,84 +53,6 @@ export default {
     meta() {
       return getSiteMeta();
     }
-  },
-
-  mounted() {
-    function photoPosition(photo, {left, top}, {pageX, pageY}, photoPos) {
-      const coordX = pageX - left - 96;
-      const coordY = pageY - top - 96;
-
-      const absY = Math.abs(coordY);
-      const absX = Math.abs(coordX);
-
-      if(coordX + 96 >= 0 && coordX + 96 <= 194 && coordY + 96 >= 0 && coordY + 96 <= 194){
-        photo.css({
-          'background-position': `0px ${photoPos}`,
-          'filter': 'grayscale(0)'
-        });
-      } else if(coordX >= 0 && coordY < 0){
-        photo.css('filter', 'grayscale(1)');
-        if(absX / absY >= 2) {
-          photo.css('background-position', `-200px ${photoPos}`);
-        } else if(absY / absX >= 2) {
-          photo.css('background-position', `-800px ${photoPos}`);
-        } else {
-          photo.css('background-position', `-1200px ${photoPos}`);
-        }
-      } else if(coordX >= 0 && coordY >= 0){
-        photo.css('filter', 'grayscale(1)');
-        if(absX / absY >= 2) {
-          photo.css('background-position', `-200px ${photoPos}`);
-        } else if(absY / absX >= 2) {
-          photo.css('background-position', `-600px ${photoPos}`);
-        } else {
-          photo.css('background-position', `-1400px ${photoPos}`);
-        }
-      } else if(coordX < 0 && coordY >= 0){
-        photo.css('filter', 'grayscale(1)');
-        if(absX / absY >= 2) {
-          photo.css('background-position', `-400px ${photoPos}`);
-        } else if(absY / absX >= 2) {
-          photo.css('background-position', `-600px ${photoPos}`);
-        } else {
-          photo.css('background-position', `-1600px ${photoPos}`);
-        }
-      } else if(coordX < 0 && coordY < 0){
-        photo.css('filter', 'grayscale(1)');
-        if(absX / absY >= 2) {
-          photo.css('background-position', `-400px ${photoPos}`);
-        } else if(absY / absX >= 2) {
-          photo.css('background-position', `-800px ${photoPos}`);
-        } else {
-          photo.css('background-position', `-1000px ${photoPos}`);
-        }
-      }
-    }
-
-    const photos = [{
-      elem: $('#photo'),
-      pos: '200px'
-    }];
-
-    photos.forEach(photo => {
-      photo.offset = photo.elem.offset();
-
-      photo.elem.click(() => {
-        $('#photo').toggleClass('incognito');
-        photo.elem.css({
-          'background-position': `-1800px ${photo.pos}`,
-          'filter': 'grayscale(0)'
-        });
-      });
-    });
-
-    $(document).mousemove((e) => {
-      if (! $('#photo').hasClass('incognito')) {
-        photos.forEach(({elem, offset, pos}) => {
-          photoPosition(elem, offset, e, pos);
-        });
-      }
-    });
   },
 
   methods: {

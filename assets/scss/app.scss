@@ -189,14 +189,11 @@ img {
         color: #999
     }
     &__highlight {
+        background-repeat: no-repeat;
+        background-position: center;
         overflow: hidden;
-        img {
-            display: block;
-            margin-bottom: 5rem;
-            height: 400px;
-            width: 100%;
-            object-fit: cover;
-        }
+        height: 500px;
+        background-size: cover;
     }
 
     .nuxt-content-highlight {

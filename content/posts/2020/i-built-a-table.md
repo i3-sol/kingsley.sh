@@ -7,9 +7,8 @@ img: /i/posts/i-built-a-table/18-situated.jpg
 alt: my first blog post
 ---
 
-
 <div class="gallery-post">
-    <p>My wife and I were lucky to acquire some old, beautiful barn wood from a demolished barn in the family. Needing a proper dining room table anyway, my wife asked if I could build a table, and without realising the undertaking, I said "absolutely"&hellip; 100 hours later, I built a table + bench!</p>
+    <p>My wife and I were lucky to acquire some old, beautiful barn wood from a demolished barn in the family. Needing a proper dining room table anyway, my wife asked if I could build a table, and without realising the undertaking, I said "hell yuh"&hellip; 100 hours later, I built a table + bench!</p>
     <p>With no fine-furniture experience, not much wood working experience either, imperial measuring tapes, and hours of trial and error, I finally built some furniture I'm proud of! Here's to many years of use 🍻</p>
     <div class="inline-table w-75 mx-lg-auto mt-4">
         <div>Wood/Material</div>
@@ -19,7 +18,7 @@ alt: my first blog post
         <div>Stain/Finish</div>
         <div><a href="https://www.homedepot.com/p/Varathane-1-qt-Clear-Semi-Gloss-Oil-Based-Interior-Polyurethane-341721/305583792">4 coats of Semi-Gloss Oil-Based Interior Polyurethane</a><br/> following <a href="https://diy.stackexchange.com/a/4511">this guide</a> pretty extensively.</div>
         <div>Total time</div>
-        <div>~100 hours</div>
+        <div>~100 quarantined hours</div>
         <div>Total cost</div>
         <div>
             ~$200 for materials such as oils, sand paper, tack clothes, etc.<br/>
@@ -30,7 +29,15 @@ alt: my first blog post
     <div class="gallery-container">
         <div class="gallery-item">
           <div class="gallery-item__child gallery-item__child--body">
-            <p>I first started by planing the pieces outside to remove the really rough/sharp pieces to make the pieces more workable. I started with the lowest plane setting as to not take off too much patina. You can see some original wood finish next to the planed strip.</p>
+            <p>Demolished barn = beautiful wood for a table!</p>
+          </div>
+          <div class="gallery-item__child gallery-item__child--figure">
+            <img src="/i/posts/i-built-a-table/0-der-anfang.jpg" alt="demolished barn = beautiful table" />
+          </div>
+        </div>
+        <div class="gallery-item">
+          <div class="gallery-item__child gallery-item__child--body">
+            <p>I first started by planing the pieces outside to remove the really rough/sharp pieces to make the pieces more workable. I started with the lowest plane setting as to not take off too much patina.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
             <img src="/i/posts/i-built-a-table/1-planing.jpg" alt="planing the wood outside" />
@@ -78,7 +85,7 @@ alt: my first blog post
         </div>
         <div class="gallery-item">
           <div class="gallery-item__child gallery-item__child--body">
-            <p>With the top pieces cut and placed, I moved on to securing them. Some pieces although formed a perfect 90&deg; angle, the pieces were uneven/wonky, and when flattened/ing, would skew the perfect 90&deg; angle, to overcome this, I cut and shimmed pieces of wood to make chevron pieces equal(er) & flat(ter) With shrinkage in mind, I used figure-8 fasteners to attach the top pieces to the frame.</p>
+            <p>With the top pieces cut and placed, I moved on to securing them. Some pieces although formed a perfect 90&deg; angle, the pieces were uneven/wonky, and when flattened/ing, would skew the perfect 90&deg; angle, to overcome this, I cut and shimmed pieces of wood to make chevron pieces equal(er) & flat(ter) With moving/shrinkage in mind, I used figure-8 fasteners to attach the top pieces to the frame.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
             <img src="/i/posts/i-built-a-table/10-assembly.jpg" alt="securing the top wood pieces to the frame using figure 8 fasteners" />
@@ -161,4 +168,13 @@ alt: my first blog post
           </div>
         </div>
     </div>
+</div>
+<div class="container mt-5">
+<h2>Lessons Learnt:</h2>
+<ul>
+  <li>Plan, Plan, Plan! More MTCO (Measure Thrice, Cut Once), less YOLO (You Only Leveled Once).</li>
+  <li>Have a clear workspace! I wish I had clear/ned my garage out completely sooner.</li>
+  <li>Check the weather! Rain/Wind + sawdust isn't fun.</li>
+  <li>It's not shameful to shim, as long as it's done well (lots of glue).</li>
+</ul>
 </div>
