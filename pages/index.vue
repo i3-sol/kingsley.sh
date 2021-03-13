@@ -5,7 +5,7 @@
       <blockquote class="blockquote">
         <i-am-kingsley />
         <p class="lead">Hi there! My name's Kingsley. I'm a Brit, who's been living in the US since 2016. I write code for things on the internet. More specifically, I'm an Open Source Enthusiast &amp; I work as a DevOps Engineer for Pearson.</p>
-        <p>A full-stack developer, generalist, and environmentalist, I enjoy combining my obsessive attention to detail, with my love for making things, and the environment, with a mission-driven work ethic of changing the world, one small positive way at a time. Checkout some of my <nuxt-link to="/projects">work</nuxt-link>, or say <nuxt-link to="/about">hello!</nuxt-link></p>
+        <p>A full-stack developer, generalist, and environmentalist, I enjoy combining my obsessive attention to detail, with my love for making things, and the environment, with a mission-driven work ethic of changing the world, in one small positive way at a time. Checkout some of my <nuxt-link to="/projects">work</nuxt-link>, or say <nuxt-link to="/about">hello!</nuxt-link></p>
       </blockquote>
     </section>
 
@@ -23,7 +23,7 @@
                   <a :href="`/posts/${getPostYear(post.createdAt)}/${post.slug}`">{{ post.title }}</a>
                   <time class="small" :class="post.createdAt">{{ formatToHumanDate(post.createdAt) }}</time>
                 </header>
-                <p>{{ post.description }}</p>
+                <p v-html="post.description"></p>
               </article>
             </li>
           </ul>

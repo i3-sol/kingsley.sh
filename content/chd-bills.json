@@ -46,5 +46,40 @@
         "description": "[unsure]",
         "provider": "Katerji Pediatric Neurology & Assoc",
         "amount": 120
+    }, {
+        "date": "2020-12-16",
+        "description": "[unsure]",
+        "provider": "Genetics",
+        "amount": 195
+    }, {
+        "date": "2020-12-16",
+        "description": "[unsure]",
+        "provider": "Midwest Anesthesiologists",
+        "amount": 417
+    }, {
+        "date": "2020-12-16",
+        "description": "[unsure]",
+        "provider": "Apria",
+        "amount": 17
+    }, {
+        "date": "2020-12-17",
+        "description": "[unsure]",
+        "provider": "Anthem",
+        "amount": 21
+    }, {
+        "date": "2020-12-17",
+        "description": "[unsure]",
+        "provider": "Katerji Pediatric Neurology & Assoc",
+        "amount": 44
+    }, {
+        "date": "2020-12-17",
+        "description": "[unsure]",
+        "provider": "Renaissance Medical Group, SC",
+        "amount": 16
+    }, {
+        "date": "2021-01-18",
+        "description": "[unsure]",
+        "provider": "Apria",
+        "amount": 14
     }
 ]
