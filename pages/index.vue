@@ -77,7 +77,7 @@ export default {
       const blogroll = _(content)
         .groupBy(v => moment(v.createdAt).format('YYYY'))
         .map((posts, year) => ({ year, posts }))
-        .orderBy(year => Number(year), ['asc'])
+        .orderBy(year => Number(year), ['desc'])
         .value();
 
       return {

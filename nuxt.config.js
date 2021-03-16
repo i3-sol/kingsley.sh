@@ -48,6 +48,7 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
+    'vue-plausible',
     '@nuxtjs/axios',
     '@nuxt/content',
     ['nuxt-highlightjs', {
