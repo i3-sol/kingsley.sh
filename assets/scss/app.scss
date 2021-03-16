@@ -4,7 +4,7 @@ $font-family-sans-serif: 'Asap', sans-serif;
 
 // sizes
 $container-max-widths: (
-    md: 640px
+    md: 650px
 );
 
 // colors
@@ -207,6 +207,9 @@ img {
             margin-bottom: 0;
         }
     }
+    .figure-caption {
+        text-align: center;
+    }
 }
 
 .footnotes {
@@ -289,7 +292,7 @@ img {
 
             &.starred {
                 &::before {
-                    content: "★";
+                    content: "❦";
 
                     padding-right: 10px;
                     @include media-breakpoint-up(md) {

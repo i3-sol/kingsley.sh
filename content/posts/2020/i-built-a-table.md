@@ -1,6 +1,6 @@
 ---
 title: I built a table 💪
-description: Having never really done much wood work, my wife wanted me to re-purpose some 60+ year old barn wood, what better way to re-purpose it than to go down the rabbit hole of fine-furniture, about 100 hours later, I finished building my living room table!
+description: I’ve never really done much woodwork, but my wife decided she wanted me to repurpose some sixty-plus-year-old barn wood. I’m always up for a challenge, so I figured what better way to do justice to it than to go down the rabbit hole of fine-furniture creation, and about a hundred hours later, I finished building our dining room table!
 createdAt: 2020-06-31 12:00:00
 updatedAt: 2020-06-31 12:00:00
 img: /i/posts/i-built-a-table/18-situated.jpg
@@ -8,8 +8,8 @@ alt: my first blog post
 ---
 
 <div class="gallery-post">
-    <p>My wife and I were lucky to acquire some old, beautiful barn wood from a demolished barn in the family. Needing a proper dining room table anyway, my wife asked if I could build a table, and without realising the undertaking, I said "hell yuh"&hellip; 100 hours later, I built a table + bench!</p>
-    <p>With no fine-furniture experience, not much wood working experience either, imperial measuring tapes, and hours of trial and error, I finally built some furniture I'm proud of! Here's to many years of use 🍻</p>
+    <p>My wife and I were lucky to acquire some beautiful old wood from a demolished barn in the family. We needed a proper dining room table, so my wife asked if I could build one and, without realising the scale of the undertaking, I said "hell yuh!" Around a hundred hours and a lot of sweat later, I produced a table and bench combo!</p>
+    <p>With no fine-furniture experience, not much woodworking experience either, imperial measuring tapes, and hours of trial and error, I finally built some furniture I'm proud of! Here's to many years of use 🍻</p>
     <div class="inline-table w-75 mx-lg-auto mt-4">
         <div>Wood/Material</div>
         <div>60+ year old Oak &amp; Yellow Pine from demolished family barn</div>
@@ -29,7 +29,7 @@ alt: my first blog post
     <div class="gallery-container">
         <div class="gallery-item">
           <div class="gallery-item__child gallery-item__child--body">
-            <p>Demolished barn = beautiful wood for a table!</p>
+            <p>Demolished barn = beautiful wood for a table.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
             <img src="/i/posts/i-built-a-table/0-der-anfang.jpg" alt="demolished barn = beautiful table" />
@@ -37,6 +37,7 @@ alt: my first blog post
         </div>
         <div class="gallery-item">
           <div class="gallery-item__child gallery-item__child--body">
+            <p class="font-weight-bold">It's at about this time I realise I have no idea what I am doing.</p>
             <p>I first started by planing the pieces outside to remove the really rough/sharp pieces to make the pieces more workable. I started with the lowest plane setting as to not take off too much patina.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
@@ -45,7 +46,8 @@ alt: my first blog post
         </div>
         <div class="gallery-item">
           <div class="gallery-item__child gallery-item__child--body">
-            <p>After having cut the wood ends at 45&deg;, I as able to make the chevron pattern pretty easy on the floor to get a rough idea on dimensions.</p>
+            <p>Some piece had nails, some did but were the best fit. I sorted to make them fit the best I could, shortened certain pieces, then cut the ends of at 45&deg;.</p>
+            <p>After having cut ends, I as able to make the chevron pattern pretty easy on the floor to get a rough idea on dimensions.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
             <img src="/i/posts/i-built-a-table/4-planning-out.jpg" alt="planning the table design" />
@@ -85,7 +87,7 @@ alt: my first blog post
         </div>
         <div class="gallery-item">
           <div class="gallery-item__child gallery-item__child--body">
-            <p>With the top pieces cut and placed, I moved on to securing them. Some pieces although formed a perfect 90&deg; angle, the pieces were uneven/wonky, and when flattened/ing, would skew the perfect 90&deg; angle, to overcome this, I cut and shimmed pieces of wood to make chevron pieces equal(er) & flat(ter) With moving/shrinkage in mind, I used figure-8 fasteners to attach the top pieces to the frame.</p>
+            <p>With the top pieces cut and placed, I moved on to securing them. Some pieces although formed a perfect 90&deg; angle, the pieces were uneven/wonky, and when flattened/ing, would skew the perfect 90&deg; angle, to overcome this, I cut and shimmed pieces of wood to make chevron pieces equal(er) & flat(ter). With movement in mind, I used figure-8 fasteners to attach the top pieces to the frame to allow to breathe.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
             <img src="/i/posts/i-built-a-table/10-assembly.jpg" alt="securing the top wood pieces to the frame using figure 8 fasteners" />
@@ -95,6 +97,7 @@ alt: my first blog post
           <div class="gallery-item__child gallery-item__child--body">
             <p>With the table assembled and secured in place, I then began to sand the table with a 80, 120, 200, &amp; 400 grit sand paper. </p>
             <p>&hellip;lesson learnt: rain + fine saw dust isn't fun.</p>
+            <p>This was during the peak of the pandemic, and there were no N95 masks. I used the same one for the entire project.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
             <img src="/i/posts/i-built-a-table/13-sanding.jpg" alt="sanding the table" />
@@ -103,6 +106,7 @@ alt: my first blog post
         <div class="gallery-item">
           <div class="gallery-item__child gallery-item__child--body">
             <p>I spent time over-sanding particular pieces to make them more equal with pieces on either side, or opposite in the chevron.</p>
+            <p>I didn't want it to be perfect, just as smooth as it could be.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
             <img src="/i/posts/i-built-a-table/12-evenness.jpg" alt="sanding the chevron joint, making it as even as I could" />
@@ -175,6 +179,6 @@ alt: my first blog post
   <li>Plan, Plan, Plan! More MTCO (Measure Thrice, Cut Once), less YOLO (You Only Leveled Once).</li>
   <li>Have a clear workspace! I wish I had clear/ned my garage out completely sooner.</li>
   <li>Check the weather! Rain/Wind + sawdust isn't fun.</li>
-  <li>It's not shameful to shim, as long as it's done well (lots of glue).</li>
+  <li>It doesn't have to be perfect. It's ok to shim anything, as long as you secure it strong enough :D</li>
 </ul>
 </div>

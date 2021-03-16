@@ -30,22 +30,6 @@ export default (meta) => {
       hid: 'og:image',
       property: 'og:image',
       content: (meta && meta.mainImage) || mainImage,
-    }, {
-      hid: 'twitter:url',
-      name: 'twitter:url',
-      content: (meta && meta.url) || url,
-    }, {
-      hid: 'twitter:title',
-      name: 'twitter:title',
-      content: (meta && meta.title) || title,
-    }, {
-      hid: 'twitter:description',
-      name: 'twitter:description',
-      content: (meta && meta.description) || description,
-    }, {
-      hid: 'twitter:image',
-      name: 'twitter:image',
-      content: (meta && meta.mainImage) || mainImage,
-    },
+    }
   ];
 };

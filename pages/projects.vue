@@ -6,9 +6,8 @@
 
             <article class="project-single">
                 <h2><a href="https://millerbeach.community">millerbeach.community</a></h2>
-                <p>At the southern-most point of Lake Michigan sits the Miller Beach neighbourhood of Gary, Indiana, with its beautiful sandy beaches, dunes, unique habitats, but not too far away lay steel mills, refineries, chemical companies, a few major international airports, a few major highways, cargo trains, cargo ships, etc.</p>
-                <p>After a bout of foul odor caused residents of Miller Beach eye irritation &amp; nausea, my neighbours and I pitched in and bought a <a href="https://www2.purpleair.com/products/purpleair-pa-ii">PurpleAir II air quality sensor</a>, allowing us to track the air quality in real time. Not long after the PurpleAir II sensor was up and running, <a href="https://aviation-edge.com/?utm_source=gary-indiana-opensource-air-monitor-auther">Aviation Edge</a> generously provided API access to their flight database, allowing us to track flights flying over our community, arriving/departing to/from Chicago O'Hare (ORD), Midway (MDW), & Gary (GYY) international airports. Around the same time, <a href="https://www.fleetmon.com/my/ais-stations?utm_source=gary-indiana-opensource-air-monitor-auther">FleetMon</a> generously provided an AIS antenna, allowing us to track boats/ships on Lake Michigan as they go to/from the ports/mills/refineries in the region.</p>
-                <p>Tracking train, traffic congestion and weather too, I combined all these different data points together, and displayed it on a map for my community to see. When the next illness-causing odor rolls in, we'll be able to look at our data and check from who/where the source comes from.</p>
+                <p>At the southernmost point of Lake Michigan sits the Miller Beach neighbourhood of Gary, Indiana, with its beautiful sandy beaches, dunes, and unique habitats. But not too far away lie distinctly unnatural steel mills, oil refineries, chemical companies, major international airports and highways, cargo trains and ships, etc. Necessary by-products of modern society, but at what cost?</p>
+                <p>After a bout of foul odor caused residents of Miller Beach to experience eye irritation and nausea, my neighbors and I pitched in and bought a PurpleAir II air quality sensor, allowing us to track the air quality in real time, 24/7. Not long after the PurpleAir II sensor was up and running, Aviation Edge generously provided API access to their flight database, enabling us to track airplanes passing over our community, and those arriving/departing to/from nearby Chicago O'Hare (ORD), Midway (MDW), and Gary (GYY) international airports. Around the same time, FleetMon generously provided an AIS antenna, allowing us to also track boats/ships on Lake Michigan as they move to/from the ports, mills and refineries in the region.</p>
 
                 <a href="https://millerbeach.community">
                     <img src="/i/projects/fleetmon-vessel-tracking.png" class="img-fluid mb-3" />
@@ -66,7 +65,7 @@
 
                 <p>I created a single page website of who I am and what I was searching for, and after my late-night <a href="https://twitter.com/Grossbauer/status/73166111910264832?s=20">tweet</a>, <a href="https://whynotemploy.me">whynotemploy.me</a> was picked up by <a href="https://grossbauer.com">The Grossbauer Group</a>, an integrated marketing agency in Northwest Indiana.</p>
 
-                <p>2 interviews and a trip to the US Embassy in London later, I was on a flight to the USA to begin a 12 month internship The Grossbauer Group.</p>
+                <p>2 interviews and a trip to the US Embassy in London later, I was on a flight to the USA to begin a 12 month internship with The Grossbauer Group.</p>
 
                 <a href="https://whynotemploy.me/">
                     <img src="/i/projects/whynotemploy.me.png" class="img-fluid mb-3" />
@@ -74,7 +73,7 @@
 
                 <div class="inline-table">
                     <div>Date</div>
-                    <div>Every February</div>
+                    <div>2011-2019</div>
                     <div>Stack</div>
                     <div>Laravel</div>
                     <div>Repo</div>
