@@ -1,14 +1,14 @@
 import highlightjs from 'highlight.js'
-import getSiteMeta from "./utilities/getSiteMeta";
+import getSiteMeta from './utilities/getSiteMeta'
 
-const meta = getSiteMeta();
+const meta = getSiteMeta()
 
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
 
   publicRuntimeConfig: {
-    baseUrl: process.env.BASE_URL || 'https://kingsley.sh',
+    baseUrl: process.env.BASE_URL || 'https://kingsley.sh'
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
@@ -51,7 +51,7 @@ export default {
     '@nuxtjs/axios',
     '@nuxt/content',
     ['nuxt-highlightjs', {
-      style: 'github-gist',
+      style: 'github-gist'
     }]
   ],
 
@@ -60,12 +60,12 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {
-    vendor: ['lodash', 'moment'],
+    vendor: ['lodash', 'moment']
   },
 
   content: {
     markdown: {
-      highlighter(rawCode, lang) {
+      highlighter (rawCode, lang) {
         const highlightedCode = highlightjs.highlight(lang, rawCode).value
 
         // We need to create a wrapper, because
