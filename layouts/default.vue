@@ -4,9 +4,12 @@
       <div class="container">
         <nav>
           <ul class="list-unstyled list-inline">
-            <li>
-              <nuxt-link :class="{'nuxt-link-exact-active': isRouteActive() }" to="/">
-                {{ isRouteActive() ? '☚' : '' }} kingsley.sh
+            <li v-if="$nuxt.$route.path === '/'">
+              <h1 class="site-heading"><span>kingsley.sh</span></h1>
+            </li>
+            <li v-else>
+              <nuxt-link :class="{'nuxt-link-exact-active': isBlogRouteActive() }" to="/">
+                {{ isBlogRouteActive() ? '☚' : '' }} kingsley.sh
               </nuxt-link>
             </li>
             <li>
@@ -69,7 +72,7 @@
         </nav>
 
         <p>
-          Kingsley Raspe is a full-stack developer, residing in the beautiful lake-side city of Gary, Indiana. All thoughts are his own, and unless otherwise stated, content on this site is licensed under <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>.
+          Kingsley Raspe is a full-stack developer, residing in the beautiful lake-side city of Gary, Indiana. All thoughts are his own, and unless otherwise stated, content on this site is licensed under <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
         </p>
       </div>
     </footer>
@@ -79,7 +82,7 @@
 <script>
 export default {
   methods: {
-    isRouteActive () {
+    isBlogRouteActive () {
       return this.$route.path.includes('posts')
     }
   }

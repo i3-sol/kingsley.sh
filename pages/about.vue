@@ -8,7 +8,7 @@
 
       <div class="inline-table">
         <div>Expertise</div>
-        <div>10+ years expertise building/shipping with open-source tech, PHP (Laravel), Node.js, Vue.js, Express.js, Lambda/serverless, DevOps, Bash, AWS, MySQL, Redis</div>
+        <div>10+ years expertise building/shipping with open-source tech. PHP (Laravel), Node.js, Vue.js, Express.js, Lambda/serverless, DevOps, Bash, AWS, MySQL, Redis</div>
 
         <div>Employed</div>
         <div>
@@ -36,7 +36,6 @@
 </template>
 
 <script>
-import $ from 'jquery'
 import getSiteMeta from '~/utilities/getSiteMeta'
 
 export default {

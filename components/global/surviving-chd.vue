@@ -98,7 +98,7 @@ export default {
         const { commenced, frequency, cost } = this.insurance[`year-${year}`]
 
         bills.unshift({
-          date: now.year() === year ? 'recurring' : year,
+          date: now.year() === year ? `${year} - recurring` : year,
           description: `${this.formatCurrency(cost)} every ${frequency} weeks, since ${this.formatDate(commenced)}`,
           provider: 'gross paycheck deduction',
           amount: Number(this.calculatRecurringInsurance(year))

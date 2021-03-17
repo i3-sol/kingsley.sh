@@ -19,7 +19,6 @@
 </template>
 
 <script>
-import $ from 'jquery'
 import _ from 'lodash'
 import moment from 'moment'
 import getSiteMeta from '~/utilities/getSiteMeta'

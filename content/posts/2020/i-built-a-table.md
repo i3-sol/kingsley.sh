@@ -176,6 +176,7 @@ alt: my first blog post
 <div class="container mt-5">
 <h2>Lessons Learnt:</h2>
 <ul>
+  <li>If I wasn't a software developer, I would probably be a woodworker.</li>
   <li>Plan, Plan, Plan! More MTCO (Measure Thrice, Cut Once), less YOLO (You Only Leveled Once).</li>
   <li>Have a clear workspace! I wish I had clear/ned my garage out completely sooner.</li>
   <li>Check the weather! Rain/Wind + sawdust isn't fun.</li>

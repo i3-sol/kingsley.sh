@@ -10,6 +10,8 @@ $spacers: (6: (1rem * 4.5), 7: (1rem * 6), 8: (1rem * 9) );
 
 // colors
 $link-color: #111;
+$pink: #d344e2;
+$code-color: $pink;
 
 // Imports
 @import "node_modules/bootstrap/scss/bootstrap";
@@ -33,7 +35,6 @@ $link-color: #111;
 // Global
 //////////////////////////
 body {
-    // background-color: #FFDC00    ;
     padding: 2.5rem 0 0;
 }
 
@@ -94,11 +95,21 @@ img {
                 }
             }
 
-            a {
+            .site-heading {
+                font-size: 1.1rem;
+                margin-bottom: 0;
+                padding:0;
+                line-height: inherit;
+            }
+
+            a,
+            .site-heading span {
                 font-size: 1.1rem;
                 color: rgba(0,0,0,0.3);
                 text-transform: uppercase;
+            }
 
+            a {
                 &:hover,
                 &:active {
                     text-decoration: none;
