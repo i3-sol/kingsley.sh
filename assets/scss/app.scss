@@ -3,9 +3,10 @@ $font-family-serif: 'Asap', sans-serif;
 $font-family-sans-serif: 'Asap', sans-serif;
 
 // sizes
-$container-max-widths: (
-    md: 650px
-);
+$container-max-widths: ( md: 640px );
+
+// add 6 and 7th level spacing
+$spacers: (6: (1rem * 4.5), 7: (1rem * 6), 8: (1rem * 9) );
 
 // colors
 $link-color: #111;
@@ -213,7 +214,6 @@ img {
 }
 
 .footnotes {
-    margin-top: 5rem;
     ol {
         padding-left: 0;
         list-style: none;

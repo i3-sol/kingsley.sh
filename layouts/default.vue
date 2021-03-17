@@ -5,7 +5,11 @@
       <div class="container">
         <nav>
           <ul class="list-unstyled list-inline">
-            <li><nuxt-link :class="{'nuxt-link-exact-active': isRouteActive() }" to="/">kingsley.sh</nuxt-link></li>
+            <li>
+              <nuxt-link :class="{'nuxt-link-exact-active': isRouteActive() }" to="/">
+                {{ isRouteActive() ? '☚' : '' }} kingsley.sh
+              </nuxt-link>
+            </li>
             <li><nuxt-link to="/about">About</nuxt-link></li>
             <li><nuxt-link to="/projects">Projects</nuxt-link></li>
           </ul>
@@ -45,7 +49,7 @@
         </nav>
 
         <p>
-          Kingsley Raspe is a full-stack developer, residing in the beautiful lake-side city of Gary, Indiana. All thoughts are his own, and unless otherwise stated, content on this site is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>.
+          Kingsley Raspe is a full-stack developer, residing in the beautiful lake-side city of Gary, Indiana. All thoughts are his own, and unless otherwise stated, content on this site is licensed under <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>.
         </p>
       </div>
     </footer>
@@ -54,26 +58,11 @@
 </template>
 
 <script>
-  import $ from 'jquery';
   export default{
     methods: {
       isRouteActive() {
         return this.$route.path.includes('posts');
       },
     },
-    mounted() {
-      this.$nextTick(() => {
-        $('a').each(() => {
-          const a = new RegExp('/' + window.location.host + '/');
-          if (!a.test(this.href)) {
-            $(this).click((event) => {
-              event.preventDefault();
-              event.stopPropagation();
-              window.open(this.href, '_blank');
-            });
-          }
-        });
-      });
-    }
   }
 </script>

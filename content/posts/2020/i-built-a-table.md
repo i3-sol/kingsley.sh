@@ -47,7 +47,7 @@ alt: my first blog post
         <div class="gallery-item">
           <div class="gallery-item__child gallery-item__child--body">
             <p>Some piece had nails, some did but were the best fit. I sorted to make them fit the best I could, shortened certain pieces, then cut the ends of at 45&deg;.</p>
-            <p>After having cut ends, I as able to make the chevron pattern pretty easy on the floor to get a rough idea on dimensions.</p>
+            <p>After having cut the ends, I was able to make the chevron pattern pretty easy on the floor to get a rough idea on dimensions.</p>
           </div>
           <div class="gallery-item__child gallery-item__child--figure">
             <img src="/i/posts/i-built-a-table/4-planning-out.jpg" alt="planning the table design" />
@@ -179,6 +179,6 @@ alt: my first blog post
   <li>Plan, Plan, Plan! More MTCO (Measure Thrice, Cut Once), less YOLO (You Only Leveled Once).</li>
   <li>Have a clear workspace! I wish I had clear/ned my garage out completely sooner.</li>
   <li>Check the weather! Rain/Wind + sawdust isn't fun.</li>
-  <li>It doesn't have to be perfect. It's ok to shim anything, as long as you secure it strong enough :D</li>
+  <li>It doesn't have to be perfect/it's ok to shim, just make sure it's secured with enough glue, nails, screws :D</li>
 </ul>
 </div>

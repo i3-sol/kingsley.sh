@@ -40,7 +40,7 @@ alt: gary indiana air quality tracker
     <figcaption class="figure-caption">A real-world example of a ship in Lake Michigan traveling through the Great Lakes going to the industry in the region, provided by FleetMon/AIS.</figcaption>
   </figure>
 
-  <p>Combining this information, I used Express.js and Vue.js to create a map showing all the data in one place, allowing my neighbors and I to track air quality and industry in real time.</p>
+  <p>Combining this information, I used Express.js and Vue.js to create a map showing all the data in one place, allowing my neighbors and I to track air quality and industry in real time: <a href="https://millerbeach.community">https://millerbeach.community</a></p>
 
   <p>I'll write about the tech behind this soon.</p>
 </div>

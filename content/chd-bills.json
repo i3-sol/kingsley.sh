@@ -1,85 +1,84 @@
 [
     {
         "date": "2020-06-10",
-        "description": "Echo",
+        "description": null,
         "provider": "Christ Medical Center",
         "amount": 260
     },
     {
         "date": "2020-07-10",
-        "description": "Echo",
+        "description": null,
         "provider": "Christ Medical Center",
         "amount": 220
     },
     {
         "date": "2020-07-29",
-        "description": "Echo",
+        "description": null,
         "provider": "Christ Medical Center",
         "amount": 120
     },
     {
         "date": "2020-10-01",
-        "description": "[unsure]",
+        "description": null,
         "provider": "Renaissance Medical Group, SC",
         "amount": 120
     },
     {
         "date": "2020-10-14",
-        "description": "Anesthesia",
+        "description": null,
         "provider": "Midwest Anesthesiologists",
         "amount": 440
     },
     {
-        "date": "2020-10-21",
-        "description": "xray",
-        "provider": "Christ Medical Center",
+        "date": "2020-10-29",
+        "description": "Home oxygen/food pump rental",
+        "provider": "Apria Healthcare",
         "amount": 14
     },
     {
-        "date": "2020-10-29",
-        "description": "Home oxygen supply",
-        "provider": "Apria Healthcare",
-        "amount": 120
-    },
-    {
         "date": "2020-11-03",
-        "description": "[unsure]",
+        "description": null,
         "provider": "Katerji Pediatric Neurology & Assoc",
         "amount": 120
     }, {
         "date": "2020-12-16",
-        "description": "[unsure]",
+        "description": null,
         "provider": "Genetics",
         "amount": 195
     }, {
         "date": "2020-12-16",
-        "description": "[unsure]",
+        "description": null,
         "provider": "Midwest Anesthesiologists",
         "amount": 417
     }, {
         "date": "2020-12-16",
-        "description": "[unsure]",
+        "description": "Home oxygen/food pump rental",
         "provider": "Apria",
-        "amount": 17
+        "amount": 14
     }, {
         "date": "2020-12-17",
-        "description": "[unsure]",
+        "description": null,
         "provider": "Anthem",
         "amount": 21
     }, {
         "date": "2020-12-17",
-        "description": "[unsure]",
+        "description": null,
         "provider": "Katerji Pediatric Neurology & Assoc",
         "amount": 44
     }, {
         "date": "2020-12-17",
-        "description": "[unsure]",
+        "description": null,
         "provider": "Renaissance Medical Group, SC",
         "amount": 16
     }, {
         "date": "2021-01-18",
-        "description": "[unsure]",
+        "description": "Home oxygen/food pump rental",
         "provider": "Apria",
         "amount": 14
+    }, {
+        "date": "2021-02-01",
+        "description": "Prescription",
+        "provider": "Walgreens",
+        "amount": 134
     }
 ]

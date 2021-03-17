@@ -1,6 +1,7 @@
 <template>
   <div class="surviving-chd">
-    <div class="cochditusa">
+    <h2 class="h3 text-uppercase mx-auto w-75 text-center">money spent on healthcare to date in the USA.</h2>
+    <div class="cochditusa text-center">
       <span class="counter">{{ formatCurrency(counter) }}</span>
     </div>
 
@@ -9,17 +10,17 @@
         <tr>
           <th>Date</th>
           <th>Description</th>
-          <th>Amount</th>
+          <th class="text-right">Amount</th>
         </tr>
       </thead>
-      <tbody class="">
+      <tbody>
         <tr v-for="bill in bills">
           <td>{{ bill.date }}</td>
           <td>
-            <span class="d-block text-uppercase text-muted small">{{ bill.provider }}</span>
-            {{ bill.description }}
+            <span class="d-block text-uppercase text-muted small text-nowrap">{{ bill.provider }}</span>
+            <small class="text-nowrap">{{ bill.description }}</small>
           </td>
-          <td>{{ formatCurrency(bill.amount) }}</td>
+          <td class="text-right">{{ formatCurrency(bill.amount) }}</td>
         </tr>
       </tbody>
     </table>
@@ -65,11 +66,18 @@ export default {
   data() {
     return {
       counter: 0,
-
+      years: [2020, 2021],
       insurance: {
-        commenced: '2020-09-10',
-        cost: 320,
-        frequency: 2
+        'year-2020': {
+          commenced: '2020-09-10',
+          cost: 320,
+          frequency: 2
+        },
+        'year-2021': {
+          commenced: '2021-01-01',
+          cost: 345,
+          frequency: 2
+        }
       }
     }
   },
@@ -81,36 +89,45 @@ export default {
     formatDate(datetime) {
       return moment(datetime).format('YYYY-MM-DD')
     },
+    calculatRecurringInsurance(year) {
+      const now = moment();
+      const { commenced, frequency, cost } = this.insurance[`year-${year}`];
+
+      let weeks = moment.duration(now.diff(moment(commenced))).asWeeks();
+
+      if (now.year() !== year) {
+        const endOfYear = moment(`${year}-12-31`);
+        weeks = moment.duration(endOfYear.diff(moment(commenced))).asWeeks();
+      }
+
+      return ((weeks / frequency) * cost).toFixed(0);
+    },
   },
 
   computed: {
     bills () {
-      const { commenced, frequency, cost } = this.insurance;
+      const now = moment();
 
       let bills = providerBills.sort((a, b) => {
         return moment(b.date).diff(a.date);
       });
 
-      bills.unshift({
-        "date": "recurring",
-        "description": `${this.formatCurrency(cost)} every ${frequency} weeks, since ${this.formatDate(commenced)}`,
-        "provider": "Pre-tax paycheck deduction",
-        "amount": Number(this.recurring)
-      });
+      for(const year of this.years) {
+        const { commenced, frequency, cost } = this.insurance[`year-${year}`];
+
+        bills.unshift({
+          "date": now.year() === year ? 'recurring' : year,
+          "description": `${this.formatCurrency(cost)} every ${frequency} weeks, since ${this.formatDate(commenced)}`,
+          "provider": "gross paycheck deduction",
+          "amount": Number(this.calculatRecurringInsurance(year))
+        });
+      }
 
       return bills;
     },
 
     total() {
       return _.sumBy(this.bills, 'amount');
-    },
-
-    recurring() {
-      const now = moment();
-      const { commenced, frequency, cost } = this.insurance;
-      const weeks = moment.duration(now.diff(moment(commenced))).asWeeks();
-
-      return ((weeks / frequency) * cost).toFixed(0);
     },
   },
 

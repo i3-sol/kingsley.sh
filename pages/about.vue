@@ -37,6 +37,7 @@
 </template>
 
 <script>
+import $ from 'jquery';
 import getSiteMeta from '~/utilities/getSiteMeta';
 
 export default {
