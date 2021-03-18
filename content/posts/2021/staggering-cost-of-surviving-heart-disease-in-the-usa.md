@@ -32,7 +32,7 @@ updatedAt: 2021-03-13 12:00:00
 
   <p>Each family facing the question of fetal viability (an abstract and clinical term that I loathe) makes their own decision based on their unique circumstances, and I wholeheartedly support each and every one of them. For our part, my wife and I agreed that our child’s quality of life, and their ability to feel love and happiness was all that really mattered to us. We didn’t care if our child wasn’t the smartest, or an athlete, we just wanted them to be loved, happy, and kind. And we were in the privileged position (at the time, at least) of imagining that our insurance had us covered.</p>
 
-  <p>My wife joined a HLHS Facebook group, asked some tough questions, and seeing the perspective from other parents of children with HLHS helped ease our minds that our child, with life-saving intervention, surgeries, and therapy, could, and should live a happy, healthy, fulfilled life, at least until adulthood.</p>
+  <p>My wife joined a HLHS Facebook group, asked some tough questions, and seeing the perspective from other parents of children with HLHS helped ease our minds that our child, with life-saving intervention, surgeries, and therapy, could, and should live a happy, healthy, fulfilled life, at least until adulthood (the surgeries/procedures have only been around for a <a href="https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.117.031282" target="_blank">few decades</a>).</p>
 
   <h2 class="text-uppercase">One in 700 Million</h2>
   <p>Sterling, our daughter, was born in early September 2020 at 39 weeks to the soothing sounds of <a href="https://www.youtube.com/watch?v=bbGRVVQ-17U" target="_blank">Lacksley Castell's "Speak Softly"</a>. She needed a life-saving procedure minutes after birth to open a restrictive valve in her heart, had her first major open-heart surgery at seven days old (Norwood), and at 5 months had her second major heart surgery (Glenn). She will require another major heart surgery by the time she's a toddler (Fontan). At 8 weeks old, Sterling was preemptively diagnosed with isomerism/heterotaxy syndrome, and at 3 months old, we got the ultimate diagnosis of a very rare genetic disorder called Kabuki syndrome - only 1 out of every 33,200 babies worldwide are born with Kabuki syndrome.<sup><a href="#note-3">[3]</a></sup> According to her doctor, the odds of her heart condition and genetic condition occurring simultaneously are somewhere in the region of 1 in 700,000,000+. Factor in her other diagnoses, and that number is around 1 in 2,000,000,000+.</p>
@@ -42,7 +42,7 @@ updatedAt: 2021-03-13 12:00:00
     <figcaption class="figure-caption">An intubated lil baby gal</figcaption>
   </figure>
 
-  <p>Sterling is a very special little lady, and her mom and I couldn't be more proud of our beautiful little fighter. Shakespeare's “And though she be but little, she is fierce” is her motto. All things considered, Sterling is doing extremely well. She will likely spend the first few months of her life in the Pediatric Cardiac Intensive Care Unit at Advocate Children's Hospital in Oak Lawn, Chicago, Illinois, under the care of some truly wonderful and world-class nurses, doctors, and surgeons.</p>
+  <p>Sterling is a very special little lady, and her mom and I couldn't be more proud of our beautiful little fighter. Shakespeare's "<mark class="font-weight-bold">And though she be but little, she is fierce</mark>" is her motto. All things considered, Sterling is doing extremely well. She will likely spend the first few months of her life in the Pediatric Cardiac Intensive Care Unit at Advocate Children's Hospital in Oak Lawn, Chicago, Illinois, under the care of some truly wonderful and world-class nurses, doctors, and surgeons.</p>
 
   <figure class="figure mx-md-n7">
     <img src="/i/posts/surving-rare-disorders-in-the-usa/sweet-baby-gurl.jpg" class="img-fluid" alt="Sterly Gurl" />
@@ -50,7 +50,7 @@ updatedAt: 2021-03-13 12:00:00
   </figure>
 
   <h2 class="text-uppercase">the harsh reality of paid healthcare:</h2>
-  <p>The idea of paying for healthcare is still extremely foreign to me. In spite of the numerous occasions on which I and my parents had cause to call on the UK NHS, money was never mentioned. We were never at risk of medical debt bankruptcy, affordability was never even a question; the treatment was just there when we needed it. Now, I live in a country that charges $40 for skin-to-skin contact after birth, where the plot of Breaking Bad is centered around an ordinary guy creating a meth empire to fund medical expenses related to cancer treatment, where people ration insulin, partake in medical tourism, and unnecessarily suffer with treatable ailments because they are either uninsured, underinsured, or simple can't afford the doctor's visit.</p>
+  <p>The idea of paying for healthcare is still extremely foreign to me. In spite of the numerous occasions on which I and my parents had cause to call on the UK NHS, money was never mentioned. We were never at risk of medical debt bankruptcy, affordability was never even a question; the treatment was just there when we needed it. Now, I live in a country that charges $40 for skin-to-skin contact after birth, where the plot of <span class="text-italic">Breaking Bad</span> is centered around an ordinary guy creating a meth empire to fund medical expenses related to cancer treatment, where people ration insulin, partake in medical tourism, and unnecessarily suffer with treatable ailments because they are either uninsured, underinsured, or simple can't afford the doctor's visit.</p>
 
   <div class="row my-5 mx-md-n7">
     <div class="col-sm-6">
@@ -85,7 +85,7 @@ updatedAt: 2021-03-13 12:00:00
 
   <figure class="figure mx-md-n7">
     <img src="/i/posts/surving-rare-disorders-in-the-usa/sterlings-merchandise.jpg" class="img-fluid" alt="Sterling Strong shirt" />
-    <figcaption class="figure-caption"><a href="https://www.bonfire.com/store/sterling-strong/" target="_blank">Sterling Strong tshirts, available until 11PM 17th March, 2021.</a></figcaption>
+    <figcaption class="figure-caption"><a href="https://www.bonfire.com/store/sterling-strong/" target="_blank">Sterling Swag / Sterly Merch</a></figcaption>
   </figure>
 
   <h2 class="text-uppercase">it’s broke, and we need to fix it:</h2>
@@ -117,7 +117,7 @@ updatedAt: 2021-03-13 12:00:00
 
   <p>According to your insurer, this is due to not having secured pre-approval for your daughter’s stay, even though both the hospital and insurance knew of (and planned for) your daughter’s challenges 4 months prior to her birth. This again, is my reality. It would take me 25 years of paying my entire gross salary to pay that off. Of all times to receive such an outrageous bill, this is probably the worst. Hopefully it's a mistake.</p>
 
-  <p>Being the data-nerd I am, I want to share this journey, so I'm going to track all bills related to my daughter’s care, hopefully highlight the actual real-life cost of surviving a chronic disease in the USA, and further prove the system is just all kinds of wrong. Change can start with a single voice. I know I’m not alone in what I’m experiencing, and maybe, just maybe, together we can make some noise, and some good can come out of this nightmare of medical financial vampirism. If nothing else, I can hopefully be a light for others to find and know they are not alone.</p>
+  <p>Being the nerd I am, I want to share this journey, so I'm going to track all bills related to my daughter’s care, hopefully highlight the actual real-life cost of surviving a chronic disease in the USA, and further prove the system is just all kinds of wrong. Change can start with a single voice. I know I’m not alone in what I’m experiencing, and maybe, just maybe, together we can make some noise, and some good can come out of this nightmare of medical financial vampirism. If nothing else, I can hopefully be a light for others to find and know they are not alone.</p>
 
   <p>I'll keep this blog updated as/when I can. In the meantime, I’m going to hold tight to my daughter’s hand and tell her everything’s going to be alright. Because what other choice do I have?</p>
   <figure class="figure mx-md-n7">
