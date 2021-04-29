@@ -1,6 +1,7 @@
 ---
 title: Baby/child in the ICU? Some tips & tricks
 description: Are you going to spend time in the ICU with a loved one during a pandemic? Here are a few tips/tricks from my family's 6&frac12; month-ongoing stay in an ICU.
+starred: true
 createdAt: 2020-12-31 12:00:00
 updatedAt: 2020-12-31 12:00:00
 ---

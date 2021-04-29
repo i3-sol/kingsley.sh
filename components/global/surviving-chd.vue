@@ -1,9 +1,9 @@
 <template>
   <div class="surviving-chd">
-    <h2 class="h3 text-uppercase mx-auto w-75 text-center">
+    <h2 class="h3 text-uppercase text-left w-75">
       money spent on healthcare to date in the USA.
     </h2>
-    <div class="cochditusa text-center">
+    <div class="cochditusa text-left w-75">
       <span class="counter">{{ formatCurrency(counter) }}</span>
     </div>
 
@@ -37,7 +37,7 @@
   .surviving-chd {
     .cochditusa {
       .counter {
-        font-size: 5rem;
+        font-size: 3rem;
         font-weight:bold;
       }
     }
