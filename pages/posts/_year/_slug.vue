@@ -28,9 +28,7 @@ export default {
   async asyncData ({ $content, params }) {
     const page = await $content(`posts/${params.year}/${params.slug}`).fetch()
 
-    return {
-      page
-    }
+    return { page };
   },
 
   data () {
@@ -47,7 +45,7 @@ export default {
         mainImage: this.page.image
       }
       return getSiteMeta(metaData)
-    }
+    },
   },
 
   methods: {
@@ -58,6 +56,7 @@ export default {
   head () {
     return {
       title: `${this.page.title} | kingsley.sh`,
+
       meta: [
         ...this.meta,
         {
@@ -69,13 +68,20 @@ export default {
           content: this.page.updatedAt
         }
       ],
+
       link: [
         {
           hid: 'canonical',
           rel: 'canonical',
           href: `https://kingsley.sh/posts/${this.$route.params.year}/${this.$route.params.slug}`
         }
-      ]
+      ],
+
+      script: [
+        { crossorigin: 'anonymous', src: '//genius.com/songs/6755309/embed.js' },
+        { crossorigin: 'anonymous', src: '//genius.com/songs/6755337/embed.js' },
+        { crossorigin: 'anonymous', src: '//genius.com/songs/6755379/embed.js' },
+      ],
     }
   }
 }
