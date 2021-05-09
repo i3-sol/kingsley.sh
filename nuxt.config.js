@@ -7,6 +7,7 @@ export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
 
+
   publicRuntimeConfig: {
     baseUrl: process.env.BASE_URL || 'https://kingsley.sh'
   },

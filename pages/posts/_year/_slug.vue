@@ -77,11 +77,7 @@ export default {
         }
       ],
 
-      script: [
-        { crossorigin: 'anonymous', src: '//genius.com/songs/6755309/embed.js' },
-        { crossorigin: 'anonymous', src: '//genius.com/songs/6755337/embed.js' },
-        { crossorigin: 'anonymous', src: '//genius.com/songs/6755379/embed.js' },
-      ],
+      script: [],
     }
   }
 }
