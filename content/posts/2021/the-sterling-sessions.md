@@ -11,6 +11,14 @@ updatedAt: 2021-04-28 12:00:00
   <p class="mb-5">During my daughter's ICU stay at Advocate Children's Hospital, her wonderful music therapist remixed/parodied some of my favourite reggae songs, with lyrics that I remixed myself. Enjoy!<p>
   <h2>Speak Softly Sterling</h2>
   <p>Fun fact: my daughter was born to this song, and album!</p>
+  <blockquote class="blockquote text-center my-5">
+    <p class="mb-0">
+      🎵 Speak Softly Sterling, so no-one hears you cry<br/>
+      The kisses we give today, you cannot buy<br/>
+      And all our lives we'll spend with you<br/>
+      Mommy's and daddy's dream came true   🎵
+    </p>
+  </blockquote>
   <audio controls class="w-100">
       <source src="/audio/speak-softly-sterling.mp3">
   </audio>
@@ -19,7 +27,16 @@ updatedAt: 2021-04-28 12:00:00
   <div id='rg_embed_link_6755309' class='rg_embed_link' data-song-id='6755309'>Read <a href='https://genius.com/Kingsley-raspe-speak-softly-sterling-lyrics'>“Speak Softly Sterling” by Kingsley Raspe</a> on Genius</div>
 
   <h2 class="pt-5 mt-5">You’ve Made Us So Very Happy</h2>
-  <p>Fun fact: The beats in the song, our all 3 of my family's heart beat. The music therapist used an awesome stethoscope that had an mp3 recorder built into it and was able to record our heart beats, and used GarageBand to put it all together! <em>Bravo!</em> </p>
+  <p>Fun fact: The beats in the song are all of our heart beats. The music therapist used an awesome stethoscope that had an mp3 recorder built into it and was able to record our heart beats, and used GarageBand to put it all together! <em>Bravo!</em> </p>
+  <blockquote class="blockquote text-center my-5">
+    <p class="mb-0">
+      🎵 Some days were really blue<br/>
+      But when it came to loving you, now<br/>
+      I'd spend my whole life with you, Sterl<br/>
+      'Cos you came and you took control<br/>
+      You touched my very soul 🎵
+    </p>
+  </blockquote>
   <audio controls class="w-100">
       <source src="/audio/you-made-us-so-very-happy.mp3">
   </audio>
@@ -27,8 +44,40 @@ updatedAt: 2021-04-28 12:00:00
   <h3 class="h4">lyrics</h3>
   <div id='rg_embed_link_6755337' class='rg_embed_link' data-song-id='6755337'>Read <a href='https://genius.com/Kingsley-raspe-youve-made-us-so-very-happy-lyrics'>“You've Made Us So Very Happy” by Kingsley Raspe</a> on Genius</div>
 
-  <h2 class="mt-5 pt-5">Pretty Blue Eyes</h2>
-  <p>Coming soon!</p>
+  <h2 class="mt-5 pt-5">Pretty Pretty Blue Eyes</h2>
+  <p>Fun fact: the beat is made solely from one of Sterling's heart beats.</p>
+  <blockquote class="blockquote text-center my-5">
+    <p class="mb-0">
+      🎵 I wanna love you, hold you tight and squeeze you all night<br/>
+      Ooo my blue eyes, believe me when I say<br/>
+      I can’t believe you’re mine 🎵
+    </p>
+  </blockquote>
+
+  <audio controls class="w-100">
+      <source src="/audio/pretty-pretty-blue-eyes.mp3">
+  </audio>
+  <figcaption class="figure-caption">Pretty Pretty Blue Eyes, a parody of <a href="https://www.discogs.com/Gadfrey-Lewis-Let-The-Message-Play/release/3366847" target="_blank">Gadfrey Lewis - My Brown Eyes</a>, written by yours truly, produced by Elisabeth Bombell, a wonderful music therapist at Advocate Children's Hospital.</figcaption>
   <h3 class="h4">lyrics</h3>
   <div id='rg_embed_link_6755379' class='rg_embed_link' data-song-id='6755379'>Read <a href='https://genius.com/Kingsley-raspe-pretty-pretty-blue-eyes-lyrics'>“Pretty Pretty Blue Eyes” by Kingsley Raspe</a> on Genius</div>
+
+  <h2 class="h1">Other albums Sterling vibed to!</h2>
+  <p>Fun Fact: I've slowly collected vinyls of all the songs I played to Sterling, they're hung proudly around my house.</p>
+  <ul>
+    <li>Lacksley Castell - Speak Softly</li>
+    <li>Barrington Levy - Poor Man Style</li>
+    <li>Sammy Dread - Wrap Up A Draw</li>
+    <li>Jnr Delgado - Taste Of A Young Heart</li>
+    <li>Junjo Presents The World Cup</li>
+    <li>Wayne Jarrett - Showcase Vol 1</li>
+    <li>Johnny Osbourne - Never Stop Fighting</li>
+    <li>The Paragons - On The Beach</li>
+    <li>In The Land Of Reggae Vol 2</li>
+    <li>Jonnie Clark - Girl I Love You</li>
+    <li>Sammy Dread - Think Constructively</li>
+    <li>Johnny Osbourne - Warrior</li>
+    <li>Eek-a-Mouse - Wa-Do-Dem</li>
+    <li><span class="mark">Gadfrey Lewis ‎– Let The Message Play</span></li>
+  </ul>
+  <p><mark>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mark> = not yet purchased</p>
 </div>
