@@ -64,7 +64,7 @@ updatedAt: 2021-04-28 12:00:00
   <h2 class="h1">Other albums Sterling vibed to!</h2>
   <p>Fun Fact: I've slowly collected vinyls of all the songs I played to Sterling, they're hung proudly around my house.</p>
   <ul>
-    <li>Lacksley Castell - Speak Softly</li>
+    <li>Lacksley Castell - Morning Glory</li>
     <li>Barrington Levy - Poor Man Style</li>
     <li>Sammy Dread - Wrap Up A Draw</li>
     <li>Jnr Delgado - Taste Of A Young Heart</li>
