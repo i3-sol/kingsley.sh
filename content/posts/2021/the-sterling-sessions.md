@@ -77,7 +77,15 @@ updatedAt: 2021-04-28 12:00:00
     <li>Sammy Dread - Think Constructively</li>
     <li>Johnny Osbourne - Warrior</li>
     <li>Eek-a-Mouse - Wa-Do-Dem</li>
-    <li><span class="mark">Gadfrey Lewis ‎– Let The Message Play</span></li>
+    <li>Gadfrey Lewis ‎– Let The Message Play</li>
   </ul>
-  <p><mark>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</mark> = not yet purchased</p>
+
+  <h2 class="h1" style="text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);">Sterling Sessions: Now on Spotify!</h2>
+  <p class="lead">I created a Spotify playlist of all the music that I played to Sterling, you can listen to it by scanning the SpotifyCode below!</p>
+
+  <figure class="figure mx-md-n7">
+    <img src="/i/posts/sterling-sessions/sterling-sessions-spotify-qrcode.png" class="img-fluid mb-3">
+    <figcaption class="figure-caption"><a href="https://open.spotify.com/playlist/1qp5AfSmmKLwefGyaJfLxP?si=891ec975004545c9">Sterling Sessions Playlist on Spotify</a></figcaption>
+  </figure>
+
 </div>

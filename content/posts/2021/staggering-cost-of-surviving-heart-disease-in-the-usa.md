@@ -115,16 +115,20 @@ updatedAt: 2021-03-13 12:00:00
     </figcaption>
   </figure>
 
-  <p>According to your insurer, this is due to not having secured pre-approval for your daughter’s stay, even though both the hospital and insurance knew of (and planned for) your daughter’s challenges 4 months prior to her birth. This again, is my reality. It would take me 25 years of paying my entire gross salary to pay that off. Of all times to receive such an outrageous bill, this is probably the worst. Hopefully it's a mistake.</p>
+  <p>According to your insurer, this is due to not having secured pre-approval for your daughter’s stay, even though both the hospital and insurance knew of (and planned for) your daughter’s challenges 4 months prior to her birth. This again, is my reality. It would take me 25 years of paying my entire gross salary to pay that off. Of all times to receive such an outrageous bill, this is probably the worst.</p>
 
-  <p>Hopefully I've helped shine some light on the actual real-life cost of surviving a chronic disease in the USA, and further prove the system is just all kinds of wrong. Change can start with a single voice. I know I’m not alone in what I’m experiencing, and maybe, just maybe, together we can make some noise, and some good can come out of this nightmare of medical financial vampirism. If nothing else, I can hopefully be a light for others to find and know they are not alone.</p>
+  <p>I hope I've helped shine some light on the actual real-life cost of surviving a chronic disease in the USA, and further prove the system is just all kinds of wrong. Change can start with a single voice. I know I’m not alone in what I’m experiencing, and maybe, just maybe, together we can make some noise, and some good can come out of this nightmare of medical financial vampirism. If nothing else, I can hopefully be a light for others to find and know they are not alone.</p>
 
-  <figure class="figure mx-md-n7 mt-6">
+  <p class="mb-0 mt-5 text-muted small"><em>06/2021</em></p>
+  <p>Sterling lost her battle to heart disease on May 11th 2021, passing peacefully in our arms. Even though she only lived for 8 months and 3 days, she has left a lasting footprint on earth, her story touching every corner of the world. She will never be forgotten, and her life will not be in vain. We want change.</p>
+  <p>Sterling's mom and I vow to honour her legacy by creating a foundation in her name <a href="https://sterlingstrong.foundation" target="_blank">Sterling Strong Foundation</a> that will help children and families in situations similar to ours.</p>
+
+  <figure class="figure mx-md-n7 mt-3">
     <img src="/i/posts/surving-rare-disorders-in-the-usa/count-ya-blessings.jpg" class="img-fluid" alt="discharged after 147 days in the ICU" />
     <figcaption class="figure-caption">"you came into our world, with nothing but love"</figcaption>
   </figure>
 
-  <div class="footnotes mt-6 text-break">
+  <div class="footnotes mt-3 text-break">
     <ol>
       <li id="note-1">Healthcare in Britain is mainly provided by the National Health Service, a public body that provides healthcare to all permanent residents of the United Kingdom that is free at the point of use and paid for from general taxation. <a target="_blank" href="https://en.wikipedia.org/wiki/Healthcare_in_England">[source]</a></li>
       <li id="note-2"><a target="_blank" href="https://www.cdc.gov/ncbddd/heartdefects/hlhs.html">https://www.cdc.gov/ncbddd/heartdefects/hlhs.html</a></li>

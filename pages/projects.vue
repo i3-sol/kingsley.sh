@@ -7,6 +7,15 @@
       </p>
 
       <article class="project-single">
+        <h2><a target="_blank" href="https://sterlingstrong.foundation/">sterlingstrong.foundation</a></h2>
+        <p>To honour Sterling, her mom & I will be creating the Sterling Strong Foundation. Our goals will be to help families in a similar situation to ours: rare/chronic illnesses, long/multiple ICU stays, multi-system affecting conditions, treatment outside of home state, etc. with a few things which we both personally took comfort from during Sterling's 207 days in the ICU, & help bring awareness to, and be an advocates of, congenital heart disease (CHD), Kabuki syndrome, Isomerism/Heterotaxy, and other rare diseases.</p>
+
+        <a target="_blank" href="https://sterlingstrong.foundation/" class="d-block mw-100 w-75 mx-auto">
+          <img src="/i/projects/sterlingstrong.foundation.png" class="img-fluid mb-3">
+        </a>
+      </article>
+
+      <article class="project-single">
         <h2><a target="_blank" href="https://millerbeach.community">millerbeach.community</a></h2>
         <p>At the southernmost point of Lake Michigan sits the Miller Beach neighbourhood of Gary, Indiana, with its beautiful sandy beaches, dunes, and unique habitats. But not too far away lie distinctly unnatural steel mills, oil refineries, chemical companies, major international airports and highways, cargo trains and ships, etc. Necessary by-products of modern society, but at what cost?</p>
         <p>After a bout of foul odor caused residents of Miller Beach to experience eye irritation and nausea, my neighbors and I pitched in and bought a <a href="https://www2.purpleair.com/products/purpleair-pa-ii" target="_blank">Purple Air PA-II</a> air quality sensor, allowing us to track the air quality in real time, 24/7. Not long after the PurpleAir II sensor was up and running, <a href="https://aviation-edge.com/?utm_source=gary-indiana-opensource-air-monitor-project-page" target="_blank">Aviation Edge</a> generously provided API access to their flight database, enabling us to track airplanes passing over our community, and those arriving/departing to/from nearby Chicago O'Hare (ORD), Midway (MDW), and Gary (GYY) international airports. Around the same time, <a href="https://www.fleetmon.com/my/ais-stations?utm_source=gary-indiana-opensource-air-monitor-blog-post" target="_blank">FleetMon</a> generously provided an AIS antenna, allowing us to also track boats/ships on Lake Michigan as they move to/from the ports, mills and refineries in the region.</p>
