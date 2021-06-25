@@ -10,7 +10,7 @@
         <h2><a target="_blank" href="https://sterlingstrong.foundation/">sterlingstrong.foundation</a></h2>
         <p>To honour Sterling, her mom & I will be creating the Sterling Strong Foundation. Our goals will be to help families in a similar situation to ours: rare/chronic illnesses, long/multiple ICU stays, multi-system affecting conditions, treatment outside of home state, etc. with a few things which we both personally took comfort from during Sterling's 207 days in the ICU, & help bring awareness to, and be an advocates of, congenital heart disease (CHD), Kabuki syndrome, Isomerism/Heterotaxy, and other rare diseases.</p>
 
-        <a target="_blank" href="https://sterlingstrong.foundation/" class="d-block mw-100 w-75 mx-auto">
+        <a target="_blank" href="https://sterlingstrong.foundation/" class="d-block mw-100 w-75 mx-auto border-0">
           <img src="/i/projects/sterlingstrong.foundation.png" class="img-fluid mb-3">
         </a>
       </article>
