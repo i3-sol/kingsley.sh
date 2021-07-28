@@ -23,11 +23,11 @@ updatedAt: 2021-07-27 12:00:00
 
   <p>Not long after we were re-admitted, once the initial admission process calmed down, and Sterling was stabilised, a few millilitres of sodium later, and we were on our way home (for another nine days before being re-admitted again).</p>
 
-  <p class="mb-5">After the first bill of $2,500,000+, $260,000 is nothing for my family... right? </p>
+  <p>After the first bill of $2,500,000+, $260,000 is nothing for my family... right? </p>
 
-  <p>Thank goodness I have insurance.</p>
+  <p class="mb-5">Thank goodness I have insurance.</p>
   <cost-of-two-weeks-in-the-icu></cost-of-two-weeks-in-the-icu>
-  <p class="lead">How did you get the bill in JSON?</p>
-  <p>Well, I opened up the hospital's bill in the browser, ran some JavaScript to spit out the contents of the span the item's name was in, as well as the price. Then, I copied them over to Sublime Text, used the multi-line tool, edited each line (simultaneously) to be wrapped in quotes, then keyed the objects/array how I wanted it, finished it off by linting it. As duplicates were in the same bill (such as for different days) and billed under various codes, I used regex to ignore the code difference and finished by grouping the duplicates into one..</p>
+  <p class="lead mt-5 font-weight-bold small">How did I get the bill in JSON?</p>
+  <p class="small">Well, I opened up the hospital's bill in the browser, ran some JavaScript to spit out the contents of the span the item's name was in, as well as the category, and price. Then, I copied them over to Sublime Text, used the multi-line tool, edited each line (simultaneously) to be wrapped in quotes, then keyed the objects/array how I wanted it, finished it off by linting it. As duplicates were in the same bill (such as for different days) and billed under various codes, I used regex to ignore the code difference and finished by grouping the duplicates into one.</p>
 </div>
 
