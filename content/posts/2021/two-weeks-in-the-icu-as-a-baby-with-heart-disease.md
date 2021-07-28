@@ -27,6 +27,7 @@ updatedAt: 2021-07-27 12:00:00
 
   <p>Thank goodness I have insurance.</p>
   <cost-of-two-weeks-in-the-icu></cost-of-two-weeks-in-the-icu>
-  <p class="mt-5">How did you get the bill in JSON? Well, I opened up the hospital's bill in the browser, ran some JavaScript to spit out the contents of the span the item's name was in, as well as the price. Then, I copied them over to Sublime Text, used the multi-line tool, edited each line (simultaneously) to be wrapped in quotes, then keyed the objects/array how I wanted it, finished it off by linting it. As duplicates were in the same bill (such as for different days) and billed under various codes, I used regex to ignore the code difference and finished by grouping the duplicates into one, VueJS & ChartJS makes it really easy.</p>
+  <p class="lead">How did you get the bill in JSON?</p>
+  <p>Well, I opened up the hospital's bill in the browser, ran some JavaScript to spit out the contents of the span the item's name was in, as well as the price. Then, I copied them over to Sublime Text, used the multi-line tool, edited each line (simultaneously) to be wrapped in quotes, then keyed the objects/array how I wanted it, finished it off by linting it. As duplicates were in the same bill (such as for different days) and billed under various codes, I used regex to ignore the code difference and finished by grouping the duplicates into one..</p>
 </div>
 
