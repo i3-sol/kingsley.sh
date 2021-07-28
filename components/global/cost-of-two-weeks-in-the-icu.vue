@@ -1,5 +1,5 @@
 <template>
-  <div class="surviving-chd" :class="{'mx-lg-n10': view === 'table'}">
+  <div class="surviving-chd" :class="{'mx-lg-n10': view === 'by-item'}">
 
     <div class="cochditusa text-right mb-7">
       <h2 class="h5 w-75 ml-auto">Admission at <span class="redacted">ADVOCATE</span> CHILDRENS HOSPITAL</h2>
@@ -11,14 +11,14 @@
     </div>
 
     <ul class="list-unstyled list-inline text-center">
-      <li class="list-inline-item"><a href="#" class="" @click.prevent="view = 'table'" :class="{'font-weight-bold': view === 'table'}">table</a></li>
+      <li class="list-inline-item"><a href="#" class="" @click.prevent="view = 'by-item'" :class="{'font-weight-bold': view === 'by-item'}">by item</a></li>
       <li class="list-inline-item">|</li>
-      <li class="list-inline-item"><a href="#" class="" @click.prevent="view = 'chart'" :class="{'font-weight-bold': view === 'chart'}">chart</a></li>
+      <li class="list-inline-item"><a href="#" class="" @click.prevent="view = 'by-category'" :class="{'font-weight-bold': view === 'by-category'}">by category</a></li>
       <li class="list-inline-item">|</li>
       <li class="list-inline-item"><a href="/2-weeks-in-the-icu-as-a-baby-born-with-congenital-heart-disease.json" target="_blank">json</a></li>
     </ul>
 
-    <template v-if="view === 'table'">
+    <template v-if="view === 'by-item'">
       <table class="table table-striped table-sm">
         <thead class="thead-dark">
           <tr>
@@ -78,7 +78,7 @@
         </tbody>
       </table>
     </template>
-    <template v-if="view === 'chart'">
+    <template v-if="view === 'by-category'">
       <piechart :chart-data="chartData" :options="mainChartOpts" ref='main-chart' />
     </template>
   </div>
@@ -137,7 +137,7 @@ export default {
     return {
       counter: 0,
       current: null,
-      view: 'table',
+      view: 'by-item',
 
       filtered: [],
 
