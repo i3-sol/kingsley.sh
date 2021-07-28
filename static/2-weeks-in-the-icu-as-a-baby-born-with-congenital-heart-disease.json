@@ -1,0 +1,3507 @@
+[
+    {
+        "item": "CT HEART W/DYE CONGENITAL - 75573 (CPT®)",
+        "category": "CT Scan",
+        "cost": 2812.00
+    },
+    {
+        "item": "DOP COLOR FLOW VEL MAP PEDS - 93325 (CPT®)",
+        "category": "Cardiology",
+        "cost": 334.00
+    },
+    {
+        "item": "ECHO CONGENITAL COMPLETE PEDS - 93303 (CPT®)",
+        "category": "Cardiology",
+        "cost": 1194.00
+    },
+    {
+        "item": "DOPPLER ECHO F-U/LTD PEDS - 93321 (CPT®)",
+        "category": "Cardiology",
+        "cost": 451.00
+    },
+    {
+        "item": "DOP COLOR FLOW VEL MAP PEDS - 93325 (CPT®)",
+        "category": "Cardiology",
+        "cost": 334.00
+    },
+    {
+        "item": "ECHO CONGENITAL F-U/LTD PEDS - 93304 (CPT®)",
+        "category": "Cardiology",
+        "cost": 1098.00
+    },
+    {
+        "item": "DOPPLER ECHO F-U/LTD PEDS - 93321 (CPT®)",
+        "category": "Cardiology",
+        "cost": 451.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "ROOM CHARGE ICU OR CCU PEDS",
+        "category": "Intensive Care Unit",
+        "cost": 9018.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "SODIUM URINE - 84300 (CPT®)",
+        "category": "Laboratory",
+        "cost": 52.00
+    },
+    {
+        "item": "OSMOLALITY, URINE - 83935 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "OSMOLALITY, URINE - 83935 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "SODIUM URINE - 84300 (CPT®)",
+        "category": "Laboratory",
+        "cost": 52.00
+    },
+    {
+        "item": "CHLORIDE URINE - 82436 (CPT®)",
+        "category": "Laboratory",
+        "cost": 62.00
+    },
+    {
+        "item": "POTASSIUM URINE - 84133 (CPT®)",
+        "category": "Laboratory",
+        "cost": 62.00
+    },
+    {
+        "item": "COMPREHENSIVE METABOLIC PANEL - 80053 (CPT®)",
+        "category": "Laboratory",
+        "cost": 202.00
+    },
+    {
+        "item": "OSMOLALITY BLOOD - 83930 (CPT®)",
+        "category": "Laboratory",
+        "cost": 83.00
+    },
+    {
+        "item": "GLUCOSE, BODY FLUID - 82945 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "UREA NITROGEN URINE - 84540 (CPT®)",
+        "category": "Laboratory",
+        "cost": 52.00
+    },
+    {
+        "item": "ALPHA-1 ANTITRYPSIN - 82103 (CPT®)",
+        "category": "Laboratory",
+        "cost": 153.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC BLOOD GASES - 82803 (CPT®)",
+        "category": "Laboratory",
+        "cost": 160.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "COMPREHENSIVE METABOLIC PANEL - 80053 (CPT®)",
+        "category": "Laboratory",
+        "cost": 202.00
+    },
+    {
+        "item": "CBC WO DIFF - 85027 (CPT®)",
+        "category": "Laboratory",
+        "cost": 78.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "C-REACTIVE PROTEIN - 86140 (CPT®)",
+        "category": "Laboratory",
+        "cost": 62.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "MAGNESIUM SERUM - 83735 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "CBC WO DIFF - 85027 (CPT®)",
+        "category": "Laboratory",
+        "cost": 78.00
+    },
+    {
+        "item": "PROCALCITONIN (PCT) - 84145 (CPT®)",
+        "category": "Laboratory",
+        "cost": 244.00
+    },
+    {
+        "item": "RAPID RESPIRATORY PATHOGEN BY PCR - 87633 (CPT®)",
+        "category": "Laboratory",
+        "cost": 424.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "COMPREHENSIVE METABOLIC PANEL - 80053 (CPT®)",
+        "category": "Laboratory",
+        "cost": 202.00
+    },
+    {
+        "item": "MAGNESIUM SERUM - 83735 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "PHOSPHORUS - 84100 (CPT®)",
+        "category": "Laboratory",
+        "cost": 47.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "CBC W/AUTO DIFF - 85025 (CPT®)",
+        "category": "Laboratory",
+        "cost": 78.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "COMPREHENSIVE METABOLIC PANEL - 80053 (CPT®)",
+        "category": "Laboratory",
+        "cost": 202.00
+    },
+    {
+        "item": "PHOSPHORUS - 84100 (CPT®)",
+        "category": "Laboratory",
+        "cost": 47.00
+    },
+    {
+        "item": "MAGNESIUM SERUM - 83735 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "PROCALCITONIN (PCT) - 84145 (CPT®)",
+        "category": "Laboratory",
+        "cost": 244.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "B CELL SUBSET ANALYSIS - 86355 (HCPCS)",
+        "category": "Laboratory",
+        "cost": 36.00
+    },
+    {
+        "item": "B CELL SUBSET ANALYSIS - quantity: 6 - 86356 (HCPCS)",
+        "category": "Laboratory",
+        "cost": 198.00
+    },
+    {
+        "item": "LYMPHOCYTE SUBSET PANEL 6 - 86357 (HCPCS)",
+        "category": "Laboratory",
+        "cost": 42.00
+    },
+    {
+        "item": "LYMPHOCYTE SUBSET PANEL 6 - 86359 (HCPCS)",
+        "category": "Laboratory",
+        "cost": 42.00
+    },
+    {
+        "item": "LYMPHOCYTE SUBSET PANEL 6 - 86360 (HCPCS)",
+        "category": "Laboratory",
+        "cost": 42.00
+    },
+    {
+        "item": "LYMPHOCYTE SUBSET PANEL 6 - 86356 (HCPCS)",
+        "category": "Laboratory",
+        "cost": 43.00
+    },
+    {
+        "item": "POC BLOOD GASES - 82803 (CPT®)",
+        "category": "Laboratory",
+        "cost": 160.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "MAGNESIUM SERUM - 83735 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "MAGNESIUM SERUM - 83735 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "GAMMAGLOBULIN, IGG - 82784 (CPT®)",
+        "category": "Laboratory",
+        "cost": 96.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "MAGNESIUM SERUM - 83735 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "POC CARBON MONOXIDE - 82375 (CPT®)",
+        "category": "Laboratory",
+        "cost": 72.00
+    },
+    {
+        "item": "POC BLOOD GAS PROFILE - 82805 (CPT®)",
+        "category": "Laboratory",
+        "cost": 254.00
+    },
+    {
+        "item": "POC METHEMOGLOBIN - 83050 (CPT®)",
+        "category": "Laboratory",
+        "cost": 46.00
+    },
+    {
+        "item": "POC HEMOGLOBIN - 85018 (CPT®)",
+        "category": "Laboratory",
+        "cost": 41.00
+    },
+    {
+        "item": "POC POTASSIUM SERUM - 84132 (CPT®)",
+        "category": "Laboratory",
+        "cost": 54.00
+    },
+    {
+        "item": "POC SODIUM SERUM - 84295 (CPT®)",
+        "category": "Laboratory",
+        "cost": 63.00
+    },
+    {
+        "item": "POC CALCIUM IONIZED - 82330 (CPT®)",
+        "category": "Laboratory",
+        "cost": 122.00
+    },
+    {
+        "item": "POC LACTIC ACID - 83605 (CPT®)",
+        "category": "Laboratory",
+        "cost": 97.00
+    },
+    {
+        "item": "NATRIURETIC PEPTIDE - 83880 (CPT®)",
+        "category": "Laboratory",
+        "cost": 281.00
+    },
+    {
+        "item": "COMPREHENSIVE METABOLIC PANEL - 80053 (CPT®)",
+        "category": "Laboratory",
+        "cost": 202.00
+    },
+    {
+        "item": "MAGNESIUM SERUM - 83735 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "BASIC METABOLIC PANEL - 80048 (CPT®)",
+        "category": "Laboratory",
+        "cost": 106.00
+    },
+    {
+        "item": "MAGNESIUM SERUM - 83735 (CPT®)",
+        "category": "Laboratory",
+        "cost": 75.00
+    },
+    {
+        "item": "OXYGEN THERAPY DAILY",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 405.00
+    },
+    {
+        "item": "OXYGEN THERAPY DAILY",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 405.00
+    },
+    {
+        "item": "HHF OXYGEN THERAPY DAILY",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 650.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 10",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 2150.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 12",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 2580.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 12",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 2580.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 12",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 2580.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 12",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 2580.00
+    },
+    {
+        "item": "CATH CVC DLUM PED 4F 5CM - C1751 (HCPCS)",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 646.49
+    },
+    {
+        "item": "INO PER HOUR - quantity: 24",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 5160.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 12",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 2580.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 12",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 2580.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 12",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 2580.00
+    },
+    {
+        "item": "INO PER HOUR - quantity: 7",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 1505.00
+    },
+    {
+        "item": "HHF OXYGEN THERAPY DAILY",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 650.00
+    },
+    {
+        "item": "HHF OXYGEN THERAPY DAILY",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 650.00
+    },
+    {
+        "item": "HHF OXYGEN THERAPY DAILY",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 650.00
+    },
+    {
+        "item": "OXYGEN THERAPY DAILY",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 405.00
+    },
+    {
+        "item": "OXYGEN THERAPY DAILY",
+        "category": "Medical/Surgical Supplies and Devices",
+        "cost": 405.00
+    },
+    {
+        "item": "PEDS OT EVAL HIGH COMPLEXITY - 97167 (CPT®)",
+        "category": "Occupational Therapy",
+        "cost": 382.00
+    },
+    {
+        "item": "PEDS THERAPTC ACTIVITY PER 15 - quantity: 2 - 97530 (CPT®)",
+        "category": "Occupational Therapy",
+        "cost": 340.00
+    },
+    {
+        "item": "VA ABDOMEN DUPLEX COMPLETE - 93975 (CPT®)",
+        "category": "Other Diagnostic Services",
+        "cost": 1145.00
+    },
+    {
+        "item": "VA LOWER EXT DUPLEX BILATERAL - 93925 (CPT®)",
+        "category": "Other Diagnostic Services",
+        "cost": 1145.00
+    },
+    {
+        "item": "DUPLEX SCAN EXT VEIN BILATERAL - 93970 (CPT®)",
+        "category": "Other Diagnostic Services",
+        "cost": 1226.00
+    },
+    {
+        "item": "US BRAIN - 76506 (CPT®)",
+        "category": "Other Imaging Services",
+        "cost": 923.00
+    },
+    {
+        "item": "POTASSIUM CHLORIDE 20 MEQ/15ML (10%) SOLUTION (0603-1542-98)",
+        "category": "Pharmacy",
+        "cost": 11.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "AQUAPHOR/ZINC OXIDE/AL&MG HYDROX-SIMETH (NICU BUTT PASTE) PASTE 90 G JAR (99999-861-99)",
+        "category": "Pharmacy",
+        "cost": 36.00
+    },
+    {
+        "item": "NYSTATIN 100000 UNIT/GM POWDER 15 G BOTTLE (16714-769-01)",
+        "category": "Pharmacy",
+        "cost": 41.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "LIDOCAINE 4 % CREAM 1 EACH BOX (24357-701-07)",
+        "category": "Pharmacy",
+        "cost": 100.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "IMMUNE GLOBULIN (HUMAN) 1 GM/5ML SOLUTION (44206-451-01) - quantity: 5 - J1555 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 412.00
+    },
+    {
+        "item": "IMMUNE GLOBULIN (HUMAN) 1 GM/5ML SOLUTION (44206-451-01) - quantity: 5 - J1555 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 412.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "MIDAZOLAM 2 MG/ML SYRUP (0054-3566-99)",
+        "category": "Pharmacy",
+        "cost": 11.00
+    },
+    {
+        "item": "ALBUTEROL (2.5 MG/3ML) 0.083% NEBU SOLN (76204-200-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "CLONIDINE 20 MCG/ML (COMPOUNDED) ORAL SUSPENSION (99999-387-99)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "DEXMEDETOMIDINE 100 MCG/ML SOLUTION (0143-9532-01)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 25,000 UNITS/250 ML IN DEXTROSE 5 % SOLUTION (0409-7793-52) - quantity: 25 - J1644 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 138.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 2 UNITS/ML IN NS PREMIX SOLUTION (0409-7620-13) - J1644 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 122.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "DEXTROSE 5% / SODIUM CHLORIDE 0.9% 5-0.9 % SOLUTION (0264-7610-00) - quantity: 2 - J7042 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 114.00
+    },
+    {
+        "item": "ALBUTEROL (2.5 MG/3ML) 0.083% NEBU SOLN (0487-9501-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (63323-280-02) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "POTASSIUM CHLORIDE 0.4 MEQ/ML SOLUTION (0338-0703-41) - quantity: 2 - J3480 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE 500 MG RECON SOLN 1 EACH VIAL (63323-658-20) - J1205 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 115.00
+    },
+    {
+        "item": "STERILE WATER (PRESERVATIVE FREE) SOLUTION 5 ML VIAL (63323-185-05)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "POTASSIUM CHLORIDE 20 MEQ/15ML (10%) SOLUTION (0603-1542-98)",
+        "category": "Pharmacy",
+        "cost": 13.00
+    },
+    {
+        "item": "POTASSIUM CHLORIDE 0.4 MEQ/ML SOLUTION (0338-0703-41) - quantity: 3 - J3480 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 106.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (63323-280-01) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE 500 MG RECON SOLN 1 EACH VIAL (47335-330-40) - J1205 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 115.00
+    },
+    {
+        "item": "STERILE WATER (PRESERVATIVE FREE) SOLUTION 10 ML VIAL (0409-4887-17)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "POTASSIUM CHLORIDE 20 MEQ/15ML (10%) SOLUTION (0603-1542-98)",
+        "category": "Pharmacy",
+        "cost": 11.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "MAGNESIUM SULFATE 50 % SOLUTION (63323-064-01) - J3475 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "DEXTROSE 5 % SOLUTION (0264-1510-31)",
+        "category": "Pharmacy",
+        "cost": 16.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "ALTEPLASE 1 MG/ML RECON SOLN (50242-041-64) - J2997 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 188.00
+    },
+    {
+        "item": "ALTEPLASE 1 MG/ML RECON SOLN (50242-041-64) - J2997 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 231.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 25,000 UNITS/250 ML IN DEXTROSE 5 % SOLUTION (0409-7793-52) - quantity: 25 - J1644 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 138.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "AQUAPHOR/ZINC OXIDE/AL&MG HYDROX-SIMETH (NICU BUTT PASTE) PASTE 90 G JAR (99999-861-99)",
+        "category": "Pharmacy",
+        "cost": 36.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE 500 MG RECON SOLN 1 EACH VIAL (63323-658-20) - J1205 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 115.00
+    },
+    {
+        "item": "STERILE WATER (PRESERVATIVE FREE) SOLUTION 5 ML VIAL (63323-185-05)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 4 MEQ/ML SOLUTION (99999-851-99) - quantity: 2 - J7131 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CALCIUM GLUCONATE IN D5W (DILUTED) 50 MG/ML SOLUTION (99999-390-99) - J0610 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 115.00
+    },
+    {
+        "item": "POTASSIUM CHLORIDE 20 MEQ/15ML (10%) SOLUTION (0603-1542-98)",
+        "category": "Pharmacy",
+        "cost": 13.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (63323-280-02) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE 500 MG RECON SOLN 1 EACH VIAL (63323-658-20) - J1205 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 115.00
+    },
+    {
+        "item": "STERILE WATER (PRESERVATIVE FREE) SOLUTION 5 ML VIAL (63323-185-05)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "MAGNESIUM SULFATE 50 % SOLUTION (63323-064-01) - J3475 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "DEXTROSE 5 % SOLUTION (0264-1510-31)",
+        "category": "Pharmacy",
+        "cost": 16.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "POTASSIUM CHLORIDE 20 MEQ/15ML (10%) SOLUTION (0603-1542-98)",
+        "category": "Pharmacy",
+        "cost": 13.00
+    },
+    {
+        "item": "DEXTROSE 25 % SOLUTION (0409-1775-10) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 156.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "CALCIUM GLUCONATE 10 % SOLUTION (63323-360-19) - J0610 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 117.00
+    },
+    {
+        "item": "DEXTROSE 5 % SOLUTION (0264-1510-31)",
+        "category": "Pharmacy",
+        "cost": 7.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE 500 MG RECON SOLN 1 EACH VIAL (47335-330-40) - J1205 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 115.00
+    },
+    {
+        "item": "STERILE WATER (PRESERVATIVE FREE) SOLUTION 20 ML VIAL (0409-4887-23)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "ACETAZOLAMIDE 25 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-066-99)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "ACETAZOLAMIDE 25 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-066-99)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE 500 MG RECON SOLN 1 EACH VIAL (47335-330-40) - J1205 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 115.00
+    },
+    {
+        "item": "STERILE WATER (PRESERVATIVE FREE) SOLUTION 20 ML VIAL (0409-4887-23)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "ACETAZOLAMIDE 25 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-066-99)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "ACETAZOLAMIDE 25 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-066-99)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE 500 MG RECON SOLN 1 EACH VIAL (47335-330-40) - J1205 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 115.00
+    },
+    {
+        "item": "STERILE WATER (PRESERVATIVE FREE) SOLUTION 10 ML VIAL (0409-4887-17)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "MIDAZOLAM 2 MG/ML SYRUP (0054-3566-99)",
+        "category": "Pharmacy",
+        "cost": 11.00
+    },
+    {
+        "item": "IOHEXOL 240 MG/ML SOLUTION (0407-1412-50) - quantity: 14 - Q9966 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 47.00
+    },
+    {
+        "item": "AQUAPHOR/ZINC OXIDE/AL&MG HYDROX-SIMETH (NICU BUTT PASTE) PASTE 90 G JAR (99999-861-99)",
+        "category": "Pharmacy",
+        "cost": 36.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 25,000 UNITS/250 ML IN DEXTROSE 5 % SOLUTION (0409-7793-52) - quantity: 25 - J1644 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 138.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 25,000 UNITS/250 ML IN DEXTROSE 5 % SOLUTION (0409-7793-52) - quantity: 25 - J1644 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 138.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE 10 MG/ML SOLUTION (36000-284-25) - J1940 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SPIRONOLACTONE 25 MG/5ML SUSPENSION (46287-020-04) - quantity: 2",
+        "category": "Pharmacy",
+        "cost": 390.00
+    },
+    {
+        "item": "IMMUNE GLOBULIN (HUMAN) 1 GM/5ML SOLUTION (44206-451-01) - quantity: 5 - J1555 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 412.00
+    },
+    {
+        "item": "IMMUNE GLOBULIN (HUMAN) 1 GM/5ML SOLUTION (44206-451-01) - quantity: 5 - J1555 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 412.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "SODIUM CHLORIDE 3 % NEBU SOLN (0487-9003-60)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "MAGNESIUM SULFATE 50 % SOLUTION (63323-064-01) - J3475 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "DEXTROSE 5 % SOLUTION (0264-1510-31)",
+        "category": "Pharmacy",
+        "cost": 16.00
+    },
+    {
+        "item": "AQUAPHOR/ZINC OXIDE/AL&MG HYDROX-SIMETH (NICU BUTT PASTE) PASTE 90 G JAR (99999-861-99)",
+        "category": "Pharmacy",
+        "cost": 36.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 25,000 UNITS/250 ML IN DEXTROSE 5 % SOLUTION (0409-7793-52) - quantity: 25 - J1644 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 138.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "ASPIRIN 81 MG CHEW TAB (0904-6794-89)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "PEDIATRIC MULTIVITAMIN WITH IRON 11 MG/ML SOLUTION (0087-0405-01)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "HEPARIN (PORCINE) 10 UNIT/ML SOLUTION (64253-222-35) - quantity: 2 - J1642 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "OMEPRAZOLE 2 MG/ML SUSPENSION (65628-070-05) - quantity: 3",
+        "category": "Pharmacy",
+        "cost": 110.00
+    },
+    {
+        "item": "AMOXICILLIN 400 MG/5ML RECON SUSP (0143-9887-75)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "LOSARTAN 2.5 MG/ML (COMPOUNDED) ORAL SUSPENSION (99999-575-99)",
+        "category": "Pharmacy",
+        "cost": 12.00
+    },
+    {
+        "item": "CHOLECALCIFEROL 10 MCG/ML LIQUID (54838-006-50)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "CHLOROTHIAZIDE (DIURIL) 50 MG/ML SUSPENSION (65649-311-12)",
+        "category": "Pharmacy",
+        "cost": 104.00
+    },
+    {
+        "item": "FUROSEMIDE ORAL 10 MG/ML SOLUTION (0054-3294-46)",
+        "category": "Pharmacy",
+        "cost": 103.00
+    },
+    {
+        "item": "SILDENAFIL CITRATE 10 MG/ML RECON SUSP (59762-2058-1)",
+        "category": "Pharmacy",
+        "cost": 132.00
+    },
+    {
+        "item": "ACETAMINOPHEN 160 MG/5ML SUSPENSION (0121-1781-05)",
+        "category": "Pharmacy",
+        "cost": 1.00
+    },
+    {
+        "item": "IMMUNE GLOBULIN (HUMAN) 1 GM/5ML SOLUTION (44206-451-01) - quantity: 5 - J1555 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 412.00
+    },
+    {
+        "item": "IMMUNE GLOBULIN (HUMAN) 1 GM/5ML SOLUTION (44206-451-01) - quantity: 5 - J1555 (HCPCS)",
+        "category": "Pharmacy",
+        "cost": 412.00
+    },
+    {
+        "item": "PEDS PT EVAL HIGH COMPLEXITY - 97163 (CPT®)",
+        "category": "Physical Therapy",
+        "cost": 361.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "XR CHEST 1 VIEW - 71045 (CPT®)",
+        "category": "Radiology - Diagnostic",
+        "cost": 254.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "VENTILATOR INITIAL DAY PEDS - 94002 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 1666.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "CHEST WALL THERAPY INITIAL - 94667 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "VENTILATOR EA ADD DAY PEDS - 94003 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 1098.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "VENTILATOR EA ADD DAY PEDS - 94003 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 1098.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "VENTILATOR EA ADD DAY PEDS - 94003 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 1098.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "VENTILATOR EA ADD DAY PEDS - 94003 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 1098.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "VENTILATOR EA ADD DAY PEDS - 94003 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 1098.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "CHEST WALL THERAPY SUBSEQUENT - 94668 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 212.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "RESP TX INITIAL OR SUBSEQUENT - 94640 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 318.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "MECHANICAL CHEST WALL OSCILLATION - 94669 (CPT®)",
+        "category": "Respiratory Services",
+        "cost": 308.00
+    },
+    {
+        "item": "PEDS EVALUATION DYSPHAGIA - 92610 (CPT®)",
+        "category": "Speech Therapy - Language Pathology",
+        "cost": 350.00
+    },
+    {
+        "item": "PEDS TREATMENT SP/LANG/VOICE - 92507 (CPT®)",
+        "category": "Speech Therapy - Language Pathology",
+        "cost": 340.00
+    }
+]

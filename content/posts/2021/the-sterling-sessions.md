@@ -1,5 +1,5 @@
 ---
-title: The Sterling Sessions
+title: "\"The Sterling Sessions\""
 description: Tune into 4.20 Mhz, the soothing sounds of old school roots reggae, classic songs remixed/parodied specifically for my daughter Sterling... reggae helps heal (even open heart surgery)!
 starred: true
 createdAt: 2021-04-28 12:00:00

@@ -6,7 +6,7 @@ $font-family-sans-serif: 'Asap', sans-serif;
 $container-max-widths: ( md: 640px );
 
 // add 6 and 7th level spacing and 8th
-$spacers: (6: (1rem * 4.5), 7: (1rem * 6), 8: (1rem * 9) );
+$spacers: (6: (1rem * 4.5), 7: (1rem * 6), 8: (1rem * 9),  9: (1rem * 10),  10: (1rem * 11)  );
 
 // colors
 $link-color: #111;
@@ -184,7 +184,9 @@ img {
         list-style-type: square;
     }
     p, li {
-        font-size: 1.125rem;
+        &:not(.small) {
+            font-size: 1.125rem; //hello
+        }
     }
     &__inner {
         .nuxt-content {
@@ -331,7 +333,9 @@ img {
         list-style-type: square;
     }
     p, li {
-        font-size: 1.125rem;
+        &:not(.small) {
+            font-size: 1.125rem; //hello
+        }
     }
     &__inner {
         .nuxt-content {
