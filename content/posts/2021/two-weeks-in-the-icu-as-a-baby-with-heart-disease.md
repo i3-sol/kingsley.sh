@@ -15,6 +15,7 @@ updatedAt: 2021-07-27 12:00:00
 
   <figure class="figure mt-4 mb-4">
     <img src="https://sterlingstrong.foundation/i/banksys-balloon-girl.gif" class="mw-100" title="photos by Wendy Swanson Photography">
+    <figcaption class="figure-caption">Sterling Raspe &mdash; 2020/09/08 - 2021/05/11</figcaption>
   </figure>
 
   <p>We knowingly walked a fine line with Sterling's condition; even doctors commented on the small amounts of medication Sterling was receiving (such as 0.5ml/hr) were laughable. Sterling was hypotonic, insulinemic and had other endocrine issues. She had only had one functioning kidney, she suffered from moderate/severe hearing loss and hip dysplasia. She had a total of 9 surgeries. She was G (gastro/stomach) and J (jejunum/small intestine) fed. She had tubes in her ears. She received weekly IgG treatments to treat her immunodeficiency, and unfortunately, that isn't even all of Sterling's conditions. Kabuki syndrome affected Sterling much more than that.</p>
@@ -23,13 +24,16 @@ updatedAt: 2021-07-27 12:00:00
 
   <p>Not long after we were re-admitted, once the initial admission process calmed down, and Sterling was stabilised, a few millilitres of sodium later, and we were on our way home (for another nine days before being re-admitted again).</p>
 
-  <p>After the first bill of $2,500,000+, $260,000 is should be a walk in the park... right?</p>
+  <p>After the first bill of $2,500,000+, $260,000 should be a walk in the park... right?</p>
 
   <p>Thank goodness I have insurance, but it didn't stop me worrying knowing that I'm an admission away from potential bankruptcy.</p>
 
-  <p class="mb-5">Shout out to the people who lost their jobs during the pandemic (or any other reason) and therefore their insurance, and were either sick themselves or had sick children, how can/could someone afford this?</p>
+  <p class="mb-5">Shout out to the people who lost their jobs during the pandemic (or any other reason) and therefore their insurance, and were either sick themselves or had sick children, because without insurnace (or underinsured), how can/could someone afford this?</p>
   <cost-of-two-weeks-in-the-icu></cost-of-two-weeks-in-the-icu>
   <p class="lead mt-5 font-weight-bold small">How did I get the bill in JSON?</p>
   <p class="small">Well, I opened up the hospital's bill in the browser, ran some JavaScript to spit out the contents of the span the item's name was in, as well as the category, and price. Then, I copied them over to Sublime Text, used the multi-line tool, edited each line (simultaneously) to be wrapped in quotes, then keyed the objects/array how I wanted it, finished it off by linting it. As duplicates were in the same bill (such as for different days) and billed under various codes, I used regex to ignore the code difference and finished by grouping the duplicates into one.</p>
+  <p class="lead mt-3 font-weight-bold small">What's next?</p>
+  <p class="small mb-0 mt-0">My wife and I are creating a charity to help bring awareness to the issue, to help sick children and their families, and to try improve the system in whatever way we can... we can use all the help with can get.</p>
+  <p class="small mb-0 mt-2"><a href="https://sterlingstrong.foundation" target="_blank">https://sterlingstrong.foundation</a></p>
 </div>
 
