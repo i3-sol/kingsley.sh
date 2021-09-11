@@ -1,7 +1,7 @@
 import highlightjs from 'highlight.js'
 import getSiteMeta from './utilities/getSiteMeta'
 
-const meta = getSiteMeta()
+const meta = getSiteMeta();
 
 export default {
   // Target (https://go.nuxtjs.dev/config-target)

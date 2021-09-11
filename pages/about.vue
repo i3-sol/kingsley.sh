@@ -20,7 +20,7 @@
         <div>Tamworth, UK ↣ Gary, IN, USA (GMT +6)</div>
 
         <div>Email</div>
-        <div>hello@kingsley.sh</div>
+        <div><abbr title="you have to manually type me into your email field"><span data-user="olleh" data-website="hs.yelsgnik" class="d-inline-block mark e-mail"></span></abbr></div>
 
         <div>Github</div>
         <div><a href="https://github.com/kingsloi" target="_blank">github/kingsloi</a></div>

@@ -13,11 +13,12 @@ $link-color: #111;
 $pink: #d344e2;
 $code-color: $pink;
 
+$peach: #D7837f;
+
 // Imports
 @import "node_modules/bootstrap/scss/bootstrap";
 @import "gallery-post";
 @import "darkmode";
-
 
 // Mixins
 @each $breakpoint in map-keys($grid-breakpoints) {
@@ -224,6 +225,37 @@ img {
     .figure-caption {
         text-align: center;
     }
+
+    &--sterlings-medicaid-hearing-response {
+
+        .statement {
+            &__inner {
+                border: 1px solid #ccc;
+                padding: 5rem 2.5rem;
+            }
+            &__from {}
+            &__subject {}
+            p {
+                margin-bottom: 2.25rem;
+            }
+        }
+
+        .extra {
+            p, li {
+                font-size: 1.5rem !important;
+            }
+
+            .lead {
+                font-size: 1.75rem !important;
+                text-align: center;
+            }
+
+            .leader {
+                font-size: 2rem !important;
+                text-align: center;
+            }
+        }
+    }
 }
 
 .footnotes {
@@ -381,3 +413,44 @@ img {
     }
 }
 
+
+.blockquote-style{
+  // font-size: 1.4rem;
+  margin: 2.5rem auto;
+  font-style: italic;
+  padding: 1.25rem 1rem 1.25rem 0.75rem;
+  border-left: 8px solid $peach;
+  position: relative;
+  background-color: rgba($peach, 0.3);
+
+  p {
+    margin-bottom: 0.5rem !important
+  }
+}
+
+.blockquote-style::before{
+  content: "\201C";
+  color: $peach;
+  font-size:4rem;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+.blockquote-style::after{
+  content: '';
+}
+
+.blockquote-style p{
+  display:block;
+  color:#333333;
+  margin-top:1rem;
+}
+
+.e-mail {
+    &:before {
+        content: attr(data-website) "@" attr(data-user);
+        unicode-bidi: bidi-override;
+        direction: rtl;
+    }
+}
