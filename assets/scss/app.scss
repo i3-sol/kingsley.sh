@@ -231,7 +231,10 @@ img {
         .statement {
             &__inner {
                 border: 1px solid #ccc;
-                padding: 5rem 2.5rem;
+                padding: 2.5rem 1.25rem;
+                @include media-breakpoint-up(md) {
+                    padding: 5rem 2.5rem;
+                }
             }
             &__from {}
             &__subject {}
@@ -242,17 +245,17 @@ img {
 
         .extra {
             p, li {
-                font-size: 1.5rem !important;
+                // font-size: 1.5rem !important;
             }
 
             .lead {
-                font-size: 1.75rem !important;
-                text-align: center;
+                // font-size: 1.75rem !important;
+                // text-align: center;
             }
 
             .leader {
-                font-size: 2rem !important;
-                text-align: center;
+                // font-size: 2rem !important;
+                // text-align: center;
             }
         }
     }

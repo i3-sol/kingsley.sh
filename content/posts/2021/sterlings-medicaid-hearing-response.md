@@ -6,7 +6,7 @@ createdAt: 2021-09-12 12:00:00
 updatedAt: 2021-09-12 12:00:00
 ---
 <div class="statement container">
-<div class="my-5 mb-3  mx-md-n7 text-monospace statement__inner">
+<div class="my-5 mb-3 mx-md-n7 text-monospace statement__inner">
   <div class="row">
     <div class="col-5">
       <p class="text-left statement__from pt-7">
@@ -22,10 +22,10 @@ updatedAt: 2021-09-12 12:00:00
     </div>
   </div>
 
-  <p class="text-right statement__date mb-2 w-75 ml-auto text-muted">
+  <p class="text-md-right statement__date mt-4 mt-md-0 mb-2 w-md-75 ml-md-auto text-muted">
     2021/06/17
   </p>
-  <p class="text-right statement__subject mb-6 w-75 ml-auto">
+  <p class="text-md-right statement__subject mb-6 w-md-75 ml-md-auto">
     <strong class="d-inline-block">RE:</strong> Sterling Raspe
     Medicaid Financial Ineligible &amp; Notice of Dismissal
   </p>
@@ -92,10 +92,10 @@ updatedAt: 2021-09-12 12:00:00
 <div class="container extra">
   <div class="mt-10">
     <ul class="">
-      <li><a href="https://www.washingtonpost.com/news/morning-mix/wp/2015/08/27/bank-robbery-suspect-said-he-stole-to-pay-for-daughters-cancer-treatments/" target="_blank">Bank robbery suspect said he stole to pay for daughter’s cancer treatments</a></li>
-      <li><a href="https://www.gofundme.com/f/f41itg" target="_blanl">Daughter's Fight against retinoblastoma</a></li>
+      <li><strong class="pl-1 pr-2 d-block">1/2</strong><a href="https://www.washingtonpost.com/news/morning-mix/wp/2015/08/27/bank-robbery-suspect-said-he-stole-to-pay-for-daughters-cancer-treatments/" target="_blank">Bank robbery suspect said he stole to pay for daughter’s cancer treatments</a> - The Washingon Post</li>
+      <li><strong class="pl-1 pr-2 d-block">2/2</strong><a href="https://www.gofundme.com/f/f41itg" target="_blank">Daughter's Fight against retinoblastoma</a> - GoFundMe</li>
     </ul>
-    <p class="lead mt-10">Why does my daughter deserve treatment, but other father's daughters dont?</p>
-    <p class="leader mt-5 font-weight-bold">Shouldn't they both deserve it?</p>
+    <p class="mt-10">Why does my daughter deserve treatment, but other father's daughters don't?</p>
+    <p class="">Shouldn't they both deserve it, equally?</p>
   </div>
 </div>
