@@ -95,7 +95,7 @@ updatedAt: 2021-09-12 12:00:00
       <li><strong class="pl-1 pr-2 d-block">1/2</strong><a href="https://www.washingtonpost.com/news/morning-mix/wp/2015/08/27/bank-robbery-suspect-said-he-stole-to-pay-for-daughters-cancer-treatments/" target="_blank">Bank robbery suspect said he stole to pay for daughter’s cancer treatments</a> - The Washingon Post</li>
       <li><strong class="pl-1 pr-2 d-block">2/2</strong><a href="https://www.gofundme.com/f/f41itg" target="_blank">Daughter's Fight against retinoblastoma</a> - GoFundMe</li>
     </ul>
-    <p class="mt-10">Why does my daughter deserve treatment, but other father's daughters don't?</p>
-    <p class="">Shouldn't they both deserve it, equally?</p>
+    <p class="mt-10">Why does my daughter deserve treatment, but other children don't?</p>
+    <p class="">Shouldn't they all deserve treatment, equally?</p>
   </div>
 </div>
