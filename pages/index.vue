@@ -4,7 +4,7 @@
       <blockquote class="blockquote">
         <i-am-kingsley />
         <p class="lead">
-          Hi there! My name's Kingsley. I'm a Brit, who's been living in the US since 2016. I write code for things on the internet. More specifically, I'm an Open Source Enthusiast &amp; I work as a DevOps Engineer for Pearson.
+          Hi there! My name's Kingsley. I'm a Brit, who's been living in the US since 2016. I write code for things on the internet. More specifically, I'm an Open Source Enthusiast &amp; I work as a DevOps Engineer for an education company.
         </p>
         <p>
           A full-stack developer, generalist, and environmentalist, I enjoy combining my obsessive attention to detail, with my love for making things, and the environment, with a mission-driven work ethic of changing the world, in one small positive way at a time. Checkout some of my <nuxt-link to="/projects">
