@@ -413,6 +413,7 @@ img {
     > div:nth-child(2n+1) {;
         color: #999;
         text-transform: lowercase;
+        text-align: right;
     }
 }
 
@@ -455,5 +456,11 @@ img {
         content: attr(data-website) "@" attr(data-user);
         unicode-bidi: bidi-override;
         direction: rtl;
+    }
+}
+
+.mark {
+    &--other {
+        background-color: #e3fcf8;
     }
 }

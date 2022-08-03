@@ -53,7 +53,7 @@ export default {
     '@nuxtjs/axios',
     '@nuxt/content',
     ['nuxt-highlightjs', {
-      style: 'github-gist'
+      // style: 'github-gist'
     }]
   ],
 

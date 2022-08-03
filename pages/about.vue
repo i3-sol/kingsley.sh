@@ -3,24 +3,27 @@
     <section class="container">
       <h1>About Kingsley Raspe</h1>
       <p class="lead mb-5">
-        Kingsley is a open-source enthusiast and generalist, who writes code for the internet. He uses a variety of languages and technology in his job as a DevOps Engineer at Pearson. Originally from the UK, he now resides in the beautiful lakeside city of Gary, Indiana, with his wife, daughter, and pets. He likes DIY, long walks on the beach, nature/greenery, and vintage roots reggae.
+        Kingsley is a open-source enthusiast and generalist, who writes code for the internet. He uses a variety of languages and technology in his job as a DevOps Engineer at Pearson. Originally from the UK, he now resides in the beautiful lakeside city of Gary, Indiana, with his wife, son, and pets. He likes DIY, long walks on the beach, gardening/nature/greenery, and vintage roots reggae.
       </p>
 
       <div class="inline-table">
         <div>Expertise</div>
-        <div>10+ years expertise building/shipping with open-source tech. PHP (Laravel), Node.js, Vue.js, Express.js, Lambda/serverless, DevOps, Bash, AWS, MySQL, Redis</div>
+        <div class="mb-4">10+ years expertise building/shipping with open-source tech. PHP (Laravel), Node.js, Vue.js, Express.js, Lambda/serverless, DevOps, Bash, AWS, MySQL, Redis</div>
 
         <div>Employed</div>
-        <div>
-          DevOps Engineer at Pearson <br>
-          <em>not currently job searching</em>
-        </div>
+        <div>DevOps Engineer at Pearson</div>
 
-        <div>Location</div>
-        <div>Tamworth, UK ↣ Gary, IN, USA (GMT +6)</div>
+        <div>Resume</div>
+        <div><a href="/kingsley-raspe-full-stack-developer-resume.pdf" target="_blank">kingsley-raspe-full-stack-developer-resume.pdf</a></div>
+
+        <div>Availability</div>
+        <div class="mb-4"><span class="mark mark--other d-inline-block pr-2">open to new opportunities ✅</span></div>
 
         <div>Email</div>
         <div><abbr title="you have to manually type me into your email field"><span data-user="olleh" data-website="hs.yelsgnik" class="d-inline-block mark e-mail"></span></abbr></div>
+
+        <div>Location</div>
+        <div class="mb-4"><strike>Tamworth, UK</strike> ↣ Gary, IN, USA (GMT +6)</div>
 
         <div>Github</div>
         <div><a href="https://github.com/kingsloi" target="_blank">github/kingsloi</a></div>
