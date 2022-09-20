@@ -1,6 +1,6 @@
 ---
 title: "My letter to Medicaid, appealing my child's Medicaid denial"
-description: As a taxpaying citizen of the State of Indiana, I was under the impression that the State would be there for me and my family during our times of need. Unfortunately, I now know otherwise.
+description: My daughter Sterling was denied Medicaid, despite having special needs and being medically complex. Here's what I said to the State of Indiana after denying Sterling's Medicaid application.
 starred: true
 createdAt: 2021-09-12 12:00:00
 updatedAt: 2021-09-12 12:00:00
