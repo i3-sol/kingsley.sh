@@ -52,9 +52,6 @@ export default {
     'vue-plausible',
     '@nuxtjs/axios',
     '@nuxt/content',
-    ['nuxt-highlightjs', {
-      // style: 'github-gist'
-    }]
   ],
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
@@ -66,15 +63,5 @@ export default {
   },
 
   content: {
-    markdown: {
-      highlighter (rawCode, lang) {
-        const highlightedCode = highlightjs.highlight(lang, rawCode).value
-
-        // We need to create a wrapper, because
-        // the returned code from highlight.js
-        // is only the highlighted code.
-        return `<pre><code class="hljs ${lang}">${highlightedCode}</code></pre>`
-      }
-    }
   }
 }

@@ -22,6 +22,7 @@
 import _ from 'lodash'
 import moment from 'moment'
 import getSiteMeta from '~/utilities/getSiteMeta'
+import hljs from 'highlight.js'
 
 export default {
 
@@ -35,24 +36,6 @@ export default {
     return {}
   },
 
-  computed: {
-    meta () {
-      const metaData = {
-        type: 'article',
-        title: this.page.title,
-        description: this.page.description,
-        url: `${this.$config.baseUrl}/posts/${this.$route.params.year}/${this.$route.params.slug}`,
-        mainImage: this.page.image
-      }
-      return getSiteMeta(metaData)
-    },
-  },
-
-  methods: {
-    formatToHumanDate (datetime) {
-      return moment(datetime).format('DD MMMM, YYYY')
-    }
-  },
   head () {
     return {
       title: `${this.page.title} | kingsley.sh`,
@@ -79,6 +62,35 @@ export default {
 
       script: [],
     }
+  },
+
+  computed: {
+    meta () {
+      const metaData = {
+        type: 'article',
+        title: this.page.title,
+        description: this.page.description,
+        url: `${this.$config.baseUrl}/posts/${this.$route.params.year}/${this.$route.params.slug}`,
+        mainImage: this.page.image
+      }
+      return getSiteMeta(metaData)
+    },
+  },
+
+  methods: {
+    formatToHumanDate (datetime) {
+      return moment(datetime).format('DD MMMM, YYYY')
+    }
+  },
+
+  mounted() {
+    setTimeout(function () {
+      document.querySelectorAll('pre.v-highlight')
+        .forEach((block) => {
+          hljs.highlightBlock(block)
+        })
+    }, 1000)
   }
+
 }
 </script>

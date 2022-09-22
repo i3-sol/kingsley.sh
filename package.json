@@ -2,8 +2,8 @@
   "name": "kingsley.sh",
   "version": "1.0.0",
   "private": true,
-  "engines" : {
-    "node" : "14.17.1"
+  "engines": {
+    "node": "14.17.1"
   },
   "scripts": {
     "dev": "nuxt",
@@ -20,11 +20,12 @@
     "bootstrap": "^4.5.2",
     "chart.js": "^2.9.4",
     "core-js": "^3.6.5",
+    "highlight.js": "^11.6.0",
     "jquery": "^3.5.1",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
     "nuxt": "^2.14.6",
-    "nuxt-highlightjs": "^1.0.1",
+    "nuxt-highlightjs": "^1.0.3",
     "vue-chartjs": "^3.5.1",
     "vue-plausible": "^1.1.3"
   },

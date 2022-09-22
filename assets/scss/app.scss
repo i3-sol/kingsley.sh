@@ -19,6 +19,8 @@ $peach: #D7837f;
 @import "node_modules/bootstrap/scss/bootstrap";
 @import "gallery-post";
 @import "darkmode";
+@import "highlight.js/styles/github-dark.css";
+
 
 // Mixins
 @each $breakpoint in map-keys($grid-breakpoints) {
