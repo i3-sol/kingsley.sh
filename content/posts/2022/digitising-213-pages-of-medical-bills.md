@@ -1,5 +1,5 @@
 ---
-title: "Digitising 213 pages of medical bills (WIP)"
+title: "Building an app to digitise 213 pages of medical bills (WIP)"
 description: After posting about the cost of Sterling's 2 week ICU stay, I finally got a full itemised bill of Sterling's entire 7 months in the ICU. The only issue, is that it's all paper-based. Following me along my journey as I digitise 213 pages of medical bills!
 starred: false
 createdAt: 2022-09-21 12:00:00

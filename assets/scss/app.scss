@@ -73,6 +73,20 @@ img {
     max-width: 100%;
 }
 
+details {
+    padding-left: 2rem;
+    margin-left: -2rem;
+    margin-bottom: 1rem;
+    summary {
+        padding-left: 0;
+        padding-bottom: 0.5rem;
+    }
+
+    li {
+        font-size: 1rem !important;
+    }
+}
+
 // Elements
 //////////////////////////
 .site {
